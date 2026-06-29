@@ -1,0 +1,2001 @@
+ReviewID,Category,Review,Rating,Sentiment
+1,Home,Very disappointed with the product.,2,Negative
+2,Beauty,The product exceeded my expectations.,4,Positive
+3,Electronics,Fast delivery and excellent packaging.,4,Positive
+4,Beauty,Amazing product and worth the money.,4,Positive
+5,Home,The product exceeded my expectations.,5,Positive
+6,Home,Very satisfied with this purchase.,4,Positive
+7,Home,The item arrived damaged.,2,Negative
+8,Electronics,Very satisfied with this purchase.,4,Positive
+9,Beauty,Very satisfied with this purchase.,5,Positive
+10,Beauty,Excellent product and great quality.,5,Positive
+11,Beauty,Fast delivery and excellent packaging.,4,Positive
+12,Beauty,The product exceeded my expectations.,5,Positive
+13,Home,Excellent product and great quality.,4,Positive
+14,Electronics,Very disappointed with the product.,1,Negative
+15,Home,Fast delivery and excellent packaging.,5,Positive
+16,Electronics,Amazing product and worth the money.,5,Positive
+17,Home,Poor quality and not worth the money.,1,Negative
+18,Fashion,Very satisfied with this purchase.,4,Positive
+19,Home,The product is average.,3,Neutral
+20,Books,Delivery was on time.,3,Neutral
+21,Home,Amazing product and worth the money.,5,Positive
+22,Home,Bad experience and slow delivery.,2,Negative
+23,Beauty,Amazing product and worth the money.,5,Positive
+24,Fashion,Highly recommended for everyone.,5,Positive
+25,Electronics,Amazing product and worth the money.,5,Positive
+26,Home,Very disappointed with the product.,1,Negative
+27,Books,Bad experience and slow delivery.,1,Negative
+28,Beauty,Fast delivery and excellent packaging.,5,Positive
+29,Electronics,The product is average.,3,Neutral
+30,Fashion,The product stopped working quickly.,2,Negative
+31,Books,Fast delivery and excellent packaging.,4,Positive
+32,Beauty,The product exceeded my expectations.,5,Positive
+33,Fashion,The product stopped working quickly.,1,Negative
+34,Beauty,Average performance overall.,3,Neutral
+35,Beauty,Very satisfied with this purchase.,4,Positive
+36,Electronics,Average performance overall.,3,Neutral
+37,Electronics,Fast delivery and excellent packaging.,4,Positive
+38,Home,Delivery was on time.,3,Neutral
+39,Electronics,Highly recommended for everyone.,4,Positive
+40,Home,Very disappointed with the product.,1,Negative
+41,Fashion,The product stopped working quickly.,1,Negative
+42,Home,Highly recommended for everyone.,5,Positive
+43,Home,The experience was neither good nor bad.,3,Neutral
+44,Books,Bad experience and slow delivery.,2,Negative
+45,Electronics,The quality is acceptable.,3,Neutral
+46,Electronics,Excellent product and great quality.,5,Positive
+47,Electronics,Amazing product and worth the money.,4,Positive
+48,Home,The product exceeded my expectations.,4,Positive
+49,Electronics,Excellent product and great quality.,5,Positive
+50,Home,Very satisfied with this purchase.,5,Positive
+51,Home,The product exceeded my expectations.,5,Positive
+52,Electronics,Bad experience and slow delivery.,1,Negative
+53,Books,Fast delivery and excellent packaging.,5,Positive
+54,Electronics,The product exceeded my expectations.,4,Positive
+55,Electronics,The product exceeded my expectations.,5,Positive
+56,Home,Amazing product and worth the money.,5,Positive
+57,Home,Very satisfied with this purchase.,5,Positive
+58,Books,The product is average.,3,Neutral
+59,Electronics,Average performance overall.,3,Neutral
+60,Electronics,Highly recommended for everyone.,4,Positive
+61,Home,It works as expected.,3,Neutral
+62,Books,Fast delivery and excellent packaging.,4,Positive
+63,Books,It works as expected.,3,Neutral
+64,Books,Fast delivery and excellent packaging.,5,Positive
+65,Home,The product exceeded my expectations.,5,Positive
+66,Beauty,Amazing product and worth the money.,4,Positive
+67,Electronics,Very disappointed with the product.,2,Negative
+68,Electronics,Fast delivery and excellent packaging.,4,Positive
+69,Home,The product is average.,3,Neutral
+70,Books,Excellent product and great quality.,4,Positive
+71,Beauty,Highly recommended for everyone.,4,Positive
+72,Books,Highly recommended for everyone.,4,Positive
+73,Fashion,The product stopped working quickly.,2,Negative
+74,Home,The product exceeded my expectations.,5,Positive
+75,Books,Amazing product and worth the money.,5,Positive
+76,Books,Excellent product and great quality.,4,Positive
+77,Electronics,The product stopped working quickly.,1,Negative
+78,Home,Highly recommended for everyone.,5,Positive
+79,Home,The product is average.,3,Neutral
+80,Beauty,Amazing product and worth the money.,5,Positive
+81,Beauty,The product stopped working quickly.,1,Negative
+82,Home,The product exceeded my expectations.,4,Positive
+83,Fashion,Excellent product and great quality.,4,Positive
+84,Home,Amazing product and worth the money.,5,Positive
+85,Fashion,The item arrived damaged.,2,Negative
+86,Electronics,The product is average.,3,Neutral
+87,Electronics,The item arrived damaged.,1,Negative
+88,Home,Amazing product and worth the money.,5,Positive
+89,Beauty,The product stopped working quickly.,2,Negative
+90,Beauty,Excellent product and great quality.,4,Positive
+91,Books,Very satisfied with this purchase.,4,Positive
+92,Electronics,Very satisfied with this purchase.,5,Positive
+93,Home,It works as expected.,3,Neutral
+94,Beauty,The item arrived damaged.,2,Negative
+95,Home,Poor quality and not worth the money.,1,Negative
+96,Home,The product is average.,3,Neutral
+97,Home,The item arrived damaged.,2,Negative
+98,Books,The product exceeded my expectations.,4,Positive
+99,Home,The quality is acceptable.,3,Neutral
+100,Fashion,Fast delivery and excellent packaging.,5,Positive
+101,Home,It works as expected.,3,Neutral
+102,Fashion,Amazing product and worth the money.,5,Positive
+103,Fashion,Excellent product and great quality.,5,Positive
+104,Electronics,Bad experience and slow delivery.,2,Negative
+105,Beauty,Very satisfied with this purchase.,4,Positive
+106,Electronics,Delivery was on time.,3,Neutral
+107,Fashion,Fast delivery and excellent packaging.,5,Positive
+108,Books,Highly recommended for everyone.,4,Positive
+109,Fashion,It works as expected.,3,Neutral
+110,Beauty,Fast delivery and excellent packaging.,4,Positive
+111,Home,Average performance overall.,3,Neutral
+112,Beauty,Excellent product and great quality.,5,Positive
+113,Beauty,Excellent product and great quality.,5,Positive
+114,Books,Fast delivery and excellent packaging.,5,Positive
+115,Home,The product stopped working quickly.,1,Negative
+116,Beauty,Fast delivery and excellent packaging.,4,Positive
+117,Fashion,Fast delivery and excellent packaging.,4,Positive
+118,Books,Fast delivery and excellent packaging.,5,Positive
+119,Beauty,The product exceeded my expectations.,4,Positive
+120,Electronics,The product exceeded my expectations.,4,Positive
+121,Electronics,The product exceeded my expectations.,5,Positive
+122,Fashion,It works as expected.,3,Neutral
+123,Electronics,Amazing product and worth the money.,4,Positive
+124,Books,Fast delivery and excellent packaging.,4,Positive
+125,Books,The product exceeded my expectations.,4,Positive
+126,Electronics,Amazing product and worth the money.,4,Positive
+127,Books,The product is average.,3,Neutral
+128,Electronics,The product exceeded my expectations.,5,Positive
+129,Home,Excellent product and great quality.,5,Positive
+130,Beauty,The experience was neither good nor bad.,3,Neutral
+131,Fashion,Average performance overall.,3,Neutral
+132,Beauty,The quality is acceptable.,3,Neutral
+133,Books,Average performance overall.,3,Neutral
+134,Books,Average performance overall.,3,Neutral
+135,Books,The experience was neither good nor bad.,3,Neutral
+136,Beauty,Amazing product and worth the money.,5,Positive
+137,Books,Amazing product and worth the money.,5,Positive
+138,Fashion,Very satisfied with this purchase.,4,Positive
+139,Home,Highly recommended for everyone.,4,Positive
+140,Home,Fast delivery and excellent packaging.,4,Positive
+141,Beauty,Fast delivery and excellent packaging.,5,Positive
+142,Books,Excellent product and great quality.,4,Positive
+143,Beauty,Highly recommended for everyone.,4,Positive
+144,Fashion,Excellent product and great quality.,5,Positive
+145,Books,Bad experience and slow delivery.,1,Negative
+146,Electronics,Fast delivery and excellent packaging.,5,Positive
+147,Home,The product exceeded my expectations.,5,Positive
+148,Beauty,It works as expected.,3,Neutral
+149,Electronics,Fast delivery and excellent packaging.,4,Positive
+150,Home,Poor quality and not worth the money.,2,Negative
+151,Home,Fast delivery and excellent packaging.,5,Positive
+152,Fashion,Very satisfied with this purchase.,5,Positive
+153,Electronics,Bad experience and slow delivery.,2,Negative
+154,Fashion,The product exceeded my expectations.,4,Positive
+155,Electronics,Excellent product and great quality.,4,Positive
+156,Electronics,It works as expected.,3,Neutral
+157,Books,Poor quality and not worth the money.,1,Negative
+158,Books,The product stopped working quickly.,1,Negative
+159,Beauty,The item arrived damaged.,1,Negative
+160,Home,Not satisfied with this purchase.,1,Negative
+161,Beauty,The product is average.,3,Neutral
+162,Books,Very satisfied with this purchase.,5,Positive
+163,Electronics,It works as expected.,3,Neutral
+164,Electronics,The product exceeded my expectations.,4,Positive
+165,Beauty,The item arrived damaged.,1,Negative
+166,Fashion,The item arrived damaged.,2,Negative
+167,Electronics,The product exceeded my expectations.,5,Positive
+168,Electronics,The quality is acceptable.,3,Neutral
+169,Home,Very satisfied with this purchase.,5,Positive
+170,Beauty,The product exceeded my expectations.,5,Positive
+171,Books,Average performance overall.,3,Neutral
+172,Fashion,The product exceeded my expectations.,5,Positive
+173,Fashion,The product is average.,3,Neutral
+174,Books,It works as expected.,3,Neutral
+175,Fashion,The product exceeded my expectations.,5,Positive
+176,Books,Very satisfied with this purchase.,4,Positive
+177,Fashion,Very satisfied with this purchase.,5,Positive
+178,Fashion,The experience was neither good nor bad.,3,Neutral
+179,Electronics,Highly recommended for everyone.,4,Positive
+180,Beauty,Fast delivery and excellent packaging.,5,Positive
+181,Books,Not satisfied with this purchase.,2,Negative
+182,Fashion,Excellent product and great quality.,4,Positive
+183,Fashion,The product exceeded my expectations.,4,Positive
+184,Beauty,The item arrived damaged.,2,Negative
+185,Fashion,Fast delivery and excellent packaging.,5,Positive
+186,Fashion,The item arrived damaged.,2,Negative
+187,Fashion,The product exceeded my expectations.,4,Positive
+188,Home,Highly recommended for everyone.,4,Positive
+189,Beauty,Fast delivery and excellent packaging.,5,Positive
+190,Beauty,Average performance overall.,3,Neutral
+191,Fashion,Excellent product and great quality.,4,Positive
+192,Electronics,Amazing product and worth the money.,5,Positive
+193,Electronics,Poor quality and not worth the money.,2,Negative
+194,Fashion,Average performance overall.,3,Neutral
+195,Electronics,Poor quality and not worth the money.,2,Negative
+196,Fashion,Average performance overall.,3,Neutral
+197,Home,Fast delivery and excellent packaging.,5,Positive
+198,Books,Delivery was on time.,3,Neutral
+199,Books,Excellent product and great quality.,5,Positive
+200,Home,The product exceeded my expectations.,4,Positive
+201,Electronics,Highly recommended for everyone.,5,Positive
+202,Beauty,The product is average.,3,Neutral
+203,Beauty,The product stopped working quickly.,1,Negative
+204,Beauty,Fast delivery and excellent packaging.,5,Positive
+205,Beauty,Delivery was on time.,3,Neutral
+206,Home,The product stopped working quickly.,1,Negative
+207,Home,The item arrived damaged.,1,Negative
+208,Home,Highly recommended for everyone.,4,Positive
+209,Fashion,Fast delivery and excellent packaging.,5,Positive
+210,Books,Very satisfied with this purchase.,5,Positive
+211,Beauty,Amazing product and worth the money.,5,Positive
+212,Electronics,Poor quality and not worth the money.,2,Negative
+213,Fashion,The product exceeded my expectations.,4,Positive
+214,Electronics,The product is average.,3,Neutral
+215,Books,Very satisfied with this purchase.,5,Positive
+216,Books,The product exceeded my expectations.,5,Positive
+217,Beauty,Average performance overall.,3,Neutral
+218,Books,Excellent product and great quality.,4,Positive
+219,Electronics,The product stopped working quickly.,2,Negative
+220,Fashion,The product exceeded my expectations.,4,Positive
+221,Beauty,Amazing product and worth the money.,5,Positive
+222,Beauty,The item arrived damaged.,1,Negative
+223,Books,Fast delivery and excellent packaging.,4,Positive
+224,Electronics,Very satisfied with this purchase.,5,Positive
+225,Books,Delivery was on time.,3,Neutral
+226,Beauty,The item arrived damaged.,2,Negative
+227,Fashion,Excellent product and great quality.,5,Positive
+228,Beauty,Fast delivery and excellent packaging.,4,Positive
+229,Beauty,Excellent product and great quality.,4,Positive
+230,Electronics,Fast delivery and excellent packaging.,5,Positive
+231,Fashion,Highly recommended for everyone.,4,Positive
+232,Electronics,The product exceeded my expectations.,5,Positive
+233,Home,The product exceeded my expectations.,4,Positive
+234,Electronics,Excellent product and great quality.,5,Positive
+235,Electronics,Excellent product and great quality.,5,Positive
+236,Fashion,Poor quality and not worth the money.,2,Negative
+237,Books,Very satisfied with this purchase.,5,Positive
+238,Books,It works as expected.,3,Neutral
+239,Beauty,Fast delivery and excellent packaging.,4,Positive
+240,Fashion,Amazing product and worth the money.,4,Positive
+241,Beauty,Bad experience and slow delivery.,2,Negative
+242,Fashion,Excellent product and great quality.,5,Positive
+243,Books,Average performance overall.,3,Neutral
+244,Beauty,The quality is acceptable.,3,Neutral
+245,Books,Very satisfied with this purchase.,5,Positive
+246,Home,It works as expected.,3,Neutral
+247,Electronics,Amazing product and worth the money.,5,Positive
+248,Books,Fast delivery and excellent packaging.,5,Positive
+249,Home,The experience was neither good nor bad.,3,Neutral
+250,Beauty,Excellent product and great quality.,4,Positive
+251,Electronics,Delivery was on time.,3,Neutral
+252,Electronics,The quality is acceptable.,3,Neutral
+253,Home,Fast delivery and excellent packaging.,4,Positive
+254,Electronics,The product exceeded my expectations.,4,Positive
+255,Beauty,Very satisfied with this purchase.,5,Positive
+256,Fashion,Not satisfied with this purchase.,1,Negative
+257,Books,Average performance overall.,3,Neutral
+258,Books,The experience was neither good nor bad.,3,Neutral
+259,Beauty,The product is average.,3,Neutral
+260,Home,The product exceeded my expectations.,5,Positive
+261,Electronics,Bad experience and slow delivery.,1,Negative
+262,Electronics,The product exceeded my expectations.,5,Positive
+263,Fashion,Excellent product and great quality.,5,Positive
+264,Beauty,Amazing product and worth the money.,4,Positive
+265,Home,The product exceeded my expectations.,4,Positive
+266,Beauty,Highly recommended for everyone.,5,Positive
+267,Home,Bad experience and slow delivery.,1,Negative
+268,Fashion,Very satisfied with this purchase.,5,Positive
+269,Beauty,Bad experience and slow delivery.,2,Negative
+270,Beauty,Fast delivery and excellent packaging.,5,Positive
+271,Books,Fast delivery and excellent packaging.,5,Positive
+272,Books,It works as expected.,3,Neutral
+273,Home,The product is average.,3,Neutral
+274,Fashion,Very satisfied with this purchase.,5,Positive
+275,Fashion,The product exceeded my expectations.,5,Positive
+276,Beauty,The product exceeded my expectations.,4,Positive
+277,Beauty,The item arrived damaged.,1,Negative
+278,Home,It works as expected.,3,Neutral
+279,Electronics,Not satisfied with this purchase.,1,Negative
+280,Electronics,The experience was neither good nor bad.,3,Neutral
+281,Beauty,Fast delivery and excellent packaging.,4,Positive
+282,Fashion,Amazing product and worth the money.,4,Positive
+283,Home,Fast delivery and excellent packaging.,4,Positive
+284,Beauty,Highly recommended for everyone.,5,Positive
+285,Fashion,Very satisfied with this purchase.,4,Positive
+286,Fashion,The quality is acceptable.,3,Neutral
+287,Books,The item arrived damaged.,1,Negative
+288,Home,It works as expected.,3,Neutral
+289,Books,The experience was neither good nor bad.,3,Neutral
+290,Fashion,Average performance overall.,3,Neutral
+291,Fashion,Fast delivery and excellent packaging.,4,Positive
+292,Fashion,Fast delivery and excellent packaging.,5,Positive
+293,Electronics,The product exceeded my expectations.,5,Positive
+294,Beauty,Bad experience and slow delivery.,1,Negative
+295,Fashion,Average performance overall.,3,Neutral
+296,Electronics,It works as expected.,3,Neutral
+297,Books,Bad experience and slow delivery.,2,Negative
+298,Fashion,Excellent product and great quality.,4,Positive
+299,Electronics,The product is average.,3,Neutral
+300,Books,Highly recommended for everyone.,4,Positive
+301,Beauty,The product exceeded my expectations.,5,Positive
+302,Electronics,Poor quality and not worth the money.,2,Negative
+303,Books,Average performance overall.,3,Neutral
+304,Electronics,Delivery was on time.,3,Neutral
+305,Books,Poor quality and not worth the money.,2,Negative
+306,Electronics,Delivery was on time.,3,Neutral
+307,Beauty,Delivery was on time.,3,Neutral
+308,Fashion,The experience was neither good nor bad.,3,Neutral
+309,Electronics,Very satisfied with this purchase.,4,Positive
+310,Electronics,The quality is acceptable.,3,Neutral
+311,Electronics,Not satisfied with this purchase.,1,Negative
+312,Beauty,Poor quality and not worth the money.,1,Negative
+313,Beauty,Highly recommended for everyone.,4,Positive
+314,Home,Amazing product and worth the money.,5,Positive
+315,Fashion,The product stopped working quickly.,1,Negative
+316,Home,It works as expected.,3,Neutral
+317,Electronics,Amazing product and worth the money.,4,Positive
+318,Beauty,Very satisfied with this purchase.,4,Positive
+319,Electronics,Amazing product and worth the money.,5,Positive
+320,Electronics,Fast delivery and excellent packaging.,4,Positive
+321,Books,Very satisfied with this purchase.,4,Positive
+322,Beauty,Highly recommended for everyone.,4,Positive
+323,Electronics,The product exceeded my expectations.,4,Positive
+324,Books,The quality is acceptable.,3,Neutral
+325,Electronics,Bad experience and slow delivery.,2,Negative
+326,Beauty,Delivery was on time.,3,Neutral
+327,Beauty,Amazing product and worth the money.,5,Positive
+328,Books,The product stopped working quickly.,2,Negative
+329,Fashion,Average performance overall.,3,Neutral
+330,Electronics,Highly recommended for everyone.,5,Positive
+331,Books,Very disappointed with the product.,1,Negative
+332,Fashion,Amazing product and worth the money.,5,Positive
+333,Books,The quality is acceptable.,3,Neutral
+334,Fashion,The item arrived damaged.,2,Negative
+335,Books,The item arrived damaged.,1,Negative
+336,Books,Excellent product and great quality.,4,Positive
+337,Home,The product exceeded my expectations.,5,Positive
+338,Electronics,Highly recommended for everyone.,5,Positive
+339,Electronics,The product exceeded my expectations.,5,Positive
+340,Fashion,Average performance overall.,3,Neutral
+341,Home,Highly recommended for everyone.,4,Positive
+342,Fashion,Poor quality and not worth the money.,1,Negative
+343,Electronics,Delivery was on time.,3,Neutral
+344,Books,The product stopped working quickly.,1,Negative
+345,Beauty,Average performance overall.,3,Neutral
+346,Beauty,The product stopped working quickly.,1,Negative
+347,Fashion,The experience was neither good nor bad.,3,Neutral
+348,Fashion,Very satisfied with this purchase.,5,Positive
+349,Beauty,Amazing product and worth the money.,4,Positive
+350,Electronics,Very disappointed with the product.,1,Negative
+351,Books,Highly recommended for everyone.,4,Positive
+352,Fashion,Very satisfied with this purchase.,4,Positive
+353,Electronics,Very satisfied with this purchase.,4,Positive
+354,Electronics,Highly recommended for everyone.,4,Positive
+355,Books,The product exceeded my expectations.,5,Positive
+356,Home,Bad experience and slow delivery.,2,Negative
+357,Books,Very disappointed with the product.,2,Negative
+358,Beauty,The product exceeded my expectations.,5,Positive
+359,Books,Very disappointed with the product.,1,Negative
+360,Electronics,The product is average.,3,Neutral
+361,Fashion,Amazing product and worth the money.,4,Positive
+362,Books,Excellent product and great quality.,4,Positive
+363,Books,Poor quality and not worth the money.,1,Negative
+364,Electronics,Amazing product and worth the money.,5,Positive
+365,Books,The product exceeded my expectations.,4,Positive
+366,Beauty,Excellent product and great quality.,5,Positive
+367,Fashion,Fast delivery and excellent packaging.,5,Positive
+368,Home,Excellent product and great quality.,5,Positive
+369,Books,Average performance overall.,3,Neutral
+370,Electronics,Delivery was on time.,3,Neutral
+371,Books,Excellent product and great quality.,4,Positive
+372,Books,Highly recommended for everyone.,4,Positive
+373,Fashion,The experience was neither good nor bad.,3,Neutral
+374,Beauty,Amazing product and worth the money.,4,Positive
+375,Fashion,The product stopped working quickly.,1,Negative
+376,Home,The product exceeded my expectations.,4,Positive
+377,Home,Very satisfied with this purchase.,4,Positive
+378,Home,Not satisfied with this purchase.,1,Negative
+379,Books,The experience was neither good nor bad.,3,Neutral
+380,Beauty,Highly recommended for everyone.,5,Positive
+381,Fashion,The product stopped working quickly.,2,Negative
+382,Books,Excellent product and great quality.,5,Positive
+383,Fashion,The item arrived damaged.,1,Negative
+384,Books,Very satisfied with this purchase.,5,Positive
+385,Electronics,Very satisfied with this purchase.,5,Positive
+386,Books,Very disappointed with the product.,2,Negative
+387,Books,The product exceeded my expectations.,4,Positive
+388,Home,Average performance overall.,3,Neutral
+389,Electronics,Fast delivery and excellent packaging.,4,Positive
+390,Beauty,Very satisfied with this purchase.,4,Positive
+391,Books,Very disappointed with the product.,1,Negative
+392,Beauty,Average performance overall.,3,Neutral
+393,Fashion,The item arrived damaged.,2,Negative
+394,Fashion,Very satisfied with this purchase.,4,Positive
+395,Fashion,Excellent product and great quality.,5,Positive
+396,Fashion,The product exceeded my expectations.,4,Positive
+397,Fashion,The product exceeded my expectations.,4,Positive
+398,Home,The product exceeded my expectations.,5,Positive
+399,Beauty,Excellent product and great quality.,5,Positive
+400,Beauty,Very satisfied with this purchase.,4,Positive
+401,Beauty,The product exceeded my expectations.,5,Positive
+402,Home,Very satisfied with this purchase.,5,Positive
+403,Books,Delivery was on time.,3,Neutral
+404,Electronics,Amazing product and worth the money.,4,Positive
+405,Fashion,Excellent product and great quality.,4,Positive
+406,Home,Average performance overall.,3,Neutral
+407,Home,Amazing product and worth the money.,4,Positive
+408,Home,Average performance overall.,3,Neutral
+409,Fashion,Very disappointed with the product.,2,Negative
+410,Beauty,Poor quality and not worth the money.,2,Negative
+411,Home,The product exceeded my expectations.,5,Positive
+412,Home,Very satisfied with this purchase.,5,Positive
+413,Books,Highly recommended for everyone.,5,Positive
+414,Home,Bad experience and slow delivery.,2,Negative
+415,Home,Average performance overall.,3,Neutral
+416,Books,The product is average.,3,Neutral
+417,Electronics,Average performance overall.,3,Neutral
+418,Fashion,The product stopped working quickly.,1,Negative
+419,Books,Amazing product and worth the money.,5,Positive
+420,Books,It works as expected.,3,Neutral
+421,Fashion,Amazing product and worth the money.,5,Positive
+422,Electronics,The quality is acceptable.,3,Neutral
+423,Books,Very satisfied with this purchase.,4,Positive
+424,Home,Delivery was on time.,3,Neutral
+425,Home,Excellent product and great quality.,5,Positive
+426,Home,Very satisfied with this purchase.,5,Positive
+427,Beauty,Bad experience and slow delivery.,2,Negative
+428,Fashion,Excellent product and great quality.,4,Positive
+429,Electronics,Amazing product and worth the money.,5,Positive
+430,Electronics,Poor quality and not worth the money.,2,Negative
+431,Electronics,Fast delivery and excellent packaging.,5,Positive
+432,Beauty,Fast delivery and excellent packaging.,4,Positive
+433,Fashion,The product exceeded my expectations.,4,Positive
+434,Home,Highly recommended for everyone.,5,Positive
+435,Beauty,Amazing product and worth the money.,4,Positive
+436,Beauty,The product is average.,3,Neutral
+437,Books,Highly recommended for everyone.,4,Positive
+438,Books,The product is average.,3,Neutral
+439,Electronics,Delivery was on time.,3,Neutral
+440,Home,Excellent product and great quality.,5,Positive
+441,Beauty,Not satisfied with this purchase.,1,Negative
+442,Electronics,The item arrived damaged.,1,Negative
+443,Books,Very satisfied with this purchase.,4,Positive
+444,Home,The quality is acceptable.,3,Neutral
+445,Books,The product is average.,3,Neutral
+446,Home,Amazing product and worth the money.,4,Positive
+447,Fashion,Delivery was on time.,3,Neutral
+448,Fashion,Highly recommended for everyone.,5,Positive
+449,Fashion,The product exceeded my expectations.,4,Positive
+450,Fashion,Excellent product and great quality.,5,Positive
+451,Books,Very satisfied with this purchase.,5,Positive
+452,Home,Bad experience and slow delivery.,2,Negative
+453,Beauty,Fast delivery and excellent packaging.,5,Positive
+454,Electronics,Excellent product and great quality.,5,Positive
+455,Fashion,Amazing product and worth the money.,5,Positive
+456,Fashion,Very satisfied with this purchase.,5,Positive
+457,Home,The product exceeded my expectations.,5,Positive
+458,Electronics,The item arrived damaged.,2,Negative
+459,Fashion,The item arrived damaged.,2,Negative
+460,Books,Very disappointed with the product.,1,Negative
+461,Electronics,The product exceeded my expectations.,4,Positive
+462,Electronics,Highly recommended for everyone.,5,Positive
+463,Fashion,Amazing product and worth the money.,5,Positive
+464,Beauty,Highly recommended for everyone.,4,Positive
+465,Fashion,Fast delivery and excellent packaging.,5,Positive
+466,Beauty,Excellent product and great quality.,4,Positive
+467,Home,Very satisfied with this purchase.,5,Positive
+468,Home,The product is average.,3,Neutral
+469,Fashion,Fast delivery and excellent packaging.,4,Positive
+470,Home,Not satisfied with this purchase.,2,Negative
+471,Books,Delivery was on time.,3,Neutral
+472,Books,Amazing product and worth the money.,4,Positive
+473,Electronics,The product exceeded my expectations.,5,Positive
+474,Fashion,Delivery was on time.,3,Neutral
+475,Fashion,The product stopped working quickly.,2,Negative
+476,Home,The experience was neither good nor bad.,3,Neutral
+477,Electronics,The product stopped working quickly.,1,Negative
+478,Home,It works as expected.,3,Neutral
+479,Beauty,Very disappointed with the product.,2,Negative
+480,Beauty,Fast delivery and excellent packaging.,4,Positive
+481,Fashion,The product is average.,3,Neutral
+482,Beauty,The product exceeded my expectations.,5,Positive
+483,Home,Fast delivery and excellent packaging.,4,Positive
+484,Electronics,The experience was neither good nor bad.,3,Neutral
+485,Home,The product exceeded my expectations.,5,Positive
+486,Beauty,Average performance overall.,3,Neutral
+487,Beauty,Amazing product and worth the money.,5,Positive
+488,Electronics,The product is average.,3,Neutral
+489,Home,Very satisfied with this purchase.,4,Positive
+490,Fashion,The product exceeded my expectations.,4,Positive
+491,Fashion,Average performance overall.,3,Neutral
+492,Home,Delivery was on time.,3,Neutral
+493,Home,The product stopped working quickly.,2,Negative
+494,Beauty,The product stopped working quickly.,1,Negative
+495,Home,The product stopped working quickly.,1,Negative
+496,Beauty,Not satisfied with this purchase.,2,Negative
+497,Electronics,Excellent product and great quality.,4,Positive
+498,Fashion,Average performance overall.,3,Neutral
+499,Beauty,The product stopped working quickly.,2,Negative
+500,Fashion,Bad experience and slow delivery.,2,Negative
+501,Fashion,The product exceeded my expectations.,5,Positive
+502,Home,The product exceeded my expectations.,4,Positive
+503,Home,Fast delivery and excellent packaging.,5,Positive
+504,Fashion,Amazing product and worth the money.,5,Positive
+505,Home,The item arrived damaged.,2,Negative
+506,Fashion,The product stopped working quickly.,1,Negative
+507,Books,Excellent product and great quality.,5,Positive
+508,Fashion,Excellent product and great quality.,4,Positive
+509,Books,Average performance overall.,3,Neutral
+510,Beauty,Amazing product and worth the money.,5,Positive
+511,Books,Poor quality and not worth the money.,1,Negative
+512,Books,The quality is acceptable.,3,Neutral
+513,Electronics,The quality is acceptable.,3,Neutral
+514,Home,Fast delivery and excellent packaging.,5,Positive
+515,Electronics,Very satisfied with this purchase.,4,Positive
+516,Fashion,Highly recommended for everyone.,5,Positive
+517,Home,Excellent product and great quality.,5,Positive
+518,Fashion,The experience was neither good nor bad.,3,Neutral
+519,Books,The item arrived damaged.,1,Negative
+520,Fashion,Highly recommended for everyone.,4,Positive
+521,Beauty,Excellent product and great quality.,5,Positive
+522,Beauty,Highly recommended for everyone.,5,Positive
+523,Electronics,Very disappointed with the product.,1,Negative
+524,Home,Very satisfied with this purchase.,5,Positive
+525,Beauty,Highly recommended for everyone.,5,Positive
+526,Fashion,Excellent product and great quality.,4,Positive
+527,Books,Average performance overall.,3,Neutral
+528,Fashion,Highly recommended for everyone.,4,Positive
+529,Home,Delivery was on time.,3,Neutral
+530,Beauty,Highly recommended for everyone.,5,Positive
+531,Beauty,Highly recommended for everyone.,5,Positive
+532,Fashion,Excellent product and great quality.,5,Positive
+533,Electronics,Bad experience and slow delivery.,2,Negative
+534,Electronics,Very satisfied with this purchase.,4,Positive
+535,Home,Amazing product and worth the money.,5,Positive
+536,Electronics,It works as expected.,3,Neutral
+537,Home,The product exceeded my expectations.,4,Positive
+538,Home,Very satisfied with this purchase.,5,Positive
+539,Beauty,Amazing product and worth the money.,5,Positive
+540,Home,Bad experience and slow delivery.,1,Negative
+541,Books,Highly recommended for everyone.,5,Positive
+542,Books,Very satisfied with this purchase.,4,Positive
+543,Beauty,Delivery was on time.,3,Neutral
+544,Beauty,The product exceeded my expectations.,5,Positive
+545,Beauty,Amazing product and worth the money.,5,Positive
+546,Home,Very satisfied with this purchase.,5,Positive
+547,Books,Bad experience and slow delivery.,2,Negative
+548,Fashion,The product exceeded my expectations.,5,Positive
+549,Books,The product exceeded my expectations.,5,Positive
+550,Fashion,It works as expected.,3,Neutral
+551,Fashion,The product exceeded my expectations.,4,Positive
+552,Fashion,The experience was neither good nor bad.,3,Neutral
+553,Beauty,Poor quality and not worth the money.,1,Negative
+554,Home,Highly recommended for everyone.,5,Positive
+555,Home,The product exceeded my expectations.,4,Positive
+556,Home,Highly recommended for everyone.,4,Positive
+557,Books,Fast delivery and excellent packaging.,5,Positive
+558,Beauty,Amazing product and worth the money.,4,Positive
+559,Books,It works as expected.,3,Neutral
+560,Home,Bad experience and slow delivery.,2,Negative
+561,Fashion,The item arrived damaged.,2,Negative
+562,Beauty,Very disappointed with the product.,1,Negative
+563,Books,Very disappointed with the product.,1,Negative
+564,Electronics,It works as expected.,3,Neutral
+565,Books,The quality is acceptable.,3,Neutral
+566,Electronics,The product exceeded my expectations.,5,Positive
+567,Fashion,Highly recommended for everyone.,4,Positive
+568,Home,The product exceeded my expectations.,5,Positive
+569,Fashion,The quality is acceptable.,3,Neutral
+570,Home,Excellent product and great quality.,5,Positive
+571,Home,Not satisfied with this purchase.,2,Negative
+572,Beauty,Very satisfied with this purchase.,5,Positive
+573,Beauty,Poor quality and not worth the money.,1,Negative
+574,Books,The quality is acceptable.,3,Neutral
+575,Electronics,Excellent product and great quality.,5,Positive
+576,Fashion,Amazing product and worth the money.,5,Positive
+577,Fashion,The product is average.,3,Neutral
+578,Fashion,Fast delivery and excellent packaging.,5,Positive
+579,Fashion,The product exceeded my expectations.,4,Positive
+580,Electronics,Not satisfied with this purchase.,1,Negative
+581,Home,Bad experience and slow delivery.,2,Negative
+582,Electronics,Highly recommended for everyone.,5,Positive
+583,Beauty,The item arrived damaged.,2,Negative
+584,Home,Amazing product and worth the money.,5,Positive
+585,Books,Highly recommended for everyone.,5,Positive
+586,Home,Bad experience and slow delivery.,1,Negative
+587,Beauty,The product stopped working quickly.,1,Negative
+588,Electronics,The product exceeded my expectations.,5,Positive
+589,Electronics,The product is average.,3,Neutral
+590,Home,Average performance overall.,3,Neutral
+591,Fashion,Amazing product and worth the money.,4,Positive
+592,Electronics,The quality is acceptable.,3,Neutral
+593,Electronics,Not satisfied with this purchase.,2,Negative
+594,Electronics,The quality is acceptable.,3,Neutral
+595,Books,Highly recommended for everyone.,5,Positive
+596,Fashion,Highly recommended for everyone.,5,Positive
+597,Electronics,Bad experience and slow delivery.,2,Negative
+598,Electronics,The product stopped working quickly.,1,Negative
+599,Beauty,The product exceeded my expectations.,4,Positive
+600,Books,The product is average.,3,Neutral
+601,Home,Fast delivery and excellent packaging.,4,Positive
+602,Fashion,Not satisfied with this purchase.,2,Negative
+603,Books,The quality is acceptable.,3,Neutral
+604,Books,The quality is acceptable.,3,Neutral
+605,Fashion,The product exceeded my expectations.,4,Positive
+606,Beauty,Highly recommended for everyone.,5,Positive
+607,Electronics,Amazing product and worth the money.,4,Positive
+608,Beauty,The quality is acceptable.,3,Neutral
+609,Home,Fast delivery and excellent packaging.,4,Positive
+610,Home,Amazing product and worth the money.,5,Positive
+611,Electronics,The experience was neither good nor bad.,3,Neutral
+612,Beauty,The product exceeded my expectations.,5,Positive
+613,Home,Very disappointed with the product.,1,Negative
+614,Books,Highly recommended for everyone.,4,Positive
+615,Home,The product exceeded my expectations.,4,Positive
+616,Home,Bad experience and slow delivery.,2,Negative
+617,Beauty,Excellent product and great quality.,4,Positive
+618,Beauty,It works as expected.,3,Neutral
+619,Home,Highly recommended for everyone.,5,Positive
+620,Books,Amazing product and worth the money.,4,Positive
+621,Books,Excellent product and great quality.,4,Positive
+622,Books,Excellent product and great quality.,5,Positive
+623,Books,The item arrived damaged.,2,Negative
+624,Beauty,Fast delivery and excellent packaging.,4,Positive
+625,Home,Amazing product and worth the money.,5,Positive
+626,Beauty,The product is average.,3,Neutral
+627,Books,Fast delivery and excellent packaging.,4,Positive
+628,Electronics,Amazing product and worth the money.,5,Positive
+629,Electronics,Delivery was on time.,3,Neutral
+630,Fashion,Amazing product and worth the money.,4,Positive
+631,Electronics,Highly recommended for everyone.,4,Positive
+632,Books,Highly recommended for everyone.,4,Positive
+633,Electronics,Very satisfied with this purchase.,5,Positive
+634,Books,Amazing product and worth the money.,4,Positive
+635,Beauty,The experience was neither good nor bad.,3,Neutral
+636,Beauty,Bad experience and slow delivery.,1,Negative
+637,Books,Very satisfied with this purchase.,5,Positive
+638,Fashion,Very satisfied with this purchase.,5,Positive
+639,Electronics,Fast delivery and excellent packaging.,5,Positive
+640,Books,The experience was neither good nor bad.,3,Neutral
+641,Fashion,The item arrived damaged.,1,Negative
+642,Home,Excellent product and great quality.,4,Positive
+643,Fashion,Highly recommended for everyone.,5,Positive
+644,Books,Very satisfied with this purchase.,4,Positive
+645,Beauty,Amazing product and worth the money.,5,Positive
+646,Fashion,Not satisfied with this purchase.,2,Negative
+647,Books,Bad experience and slow delivery.,2,Negative
+648,Home,Very satisfied with this purchase.,4,Positive
+649,Beauty,Bad experience and slow delivery.,1,Negative
+650,Beauty,The product is average.,3,Neutral
+651,Electronics,Excellent product and great quality.,4,Positive
+652,Electronics,The product exceeded my expectations.,4,Positive
+653,Beauty,Very disappointed with the product.,1,Negative
+654,Books,Excellent product and great quality.,5,Positive
+655,Electronics,Highly recommended for everyone.,5,Positive
+656,Beauty,The product exceeded my expectations.,5,Positive
+657,Beauty,The product is average.,3,Neutral
+658,Books,The experience was neither good nor bad.,3,Neutral
+659,Electronics,It works as expected.,3,Neutral
+660,Home,Average performance overall.,3,Neutral
+661,Fashion,Highly recommended for everyone.,5,Positive
+662,Fashion,Fast delivery and excellent packaging.,4,Positive
+663,Beauty,The quality is acceptable.,3,Neutral
+664,Fashion,The product exceeded my expectations.,4,Positive
+665,Electronics,Very disappointed with the product.,1,Negative
+666,Electronics,Fast delivery and excellent packaging.,5,Positive
+667,Electronics,Not satisfied with this purchase.,1,Negative
+668,Beauty,Fast delivery and excellent packaging.,5,Positive
+669,Beauty,The product is average.,3,Neutral
+670,Home,It works as expected.,3,Neutral
+671,Beauty,The experience was neither good nor bad.,3,Neutral
+672,Fashion,Excellent product and great quality.,4,Positive
+673,Electronics,Average performance overall.,3,Neutral
+674,Home,Very satisfied with this purchase.,4,Positive
+675,Electronics,The product exceeded my expectations.,5,Positive
+676,Beauty,Highly recommended for everyone.,4,Positive
+677,Beauty,The quality is acceptable.,3,Neutral
+678,Electronics,The product exceeded my expectations.,4,Positive
+679,Electronics,Very satisfied with this purchase.,4,Positive
+680,Beauty,Excellent product and great quality.,5,Positive
+681,Fashion,The product stopped working quickly.,2,Negative
+682,Books,Very satisfied with this purchase.,5,Positive
+683,Books,Highly recommended for everyone.,5,Positive
+684,Electronics,Highly recommended for everyone.,5,Positive
+685,Electronics,The item arrived damaged.,1,Negative
+686,Home,Amazing product and worth the money.,5,Positive
+687,Electronics,The item arrived damaged.,2,Negative
+688,Fashion,Very satisfied with this purchase.,5,Positive
+689,Electronics,Very disappointed with the product.,1,Negative
+690,Electronics,Fast delivery and excellent packaging.,5,Positive
+691,Beauty,Very satisfied with this purchase.,4,Positive
+692,Electronics,Very satisfied with this purchase.,5,Positive
+693,Beauty,Fast delivery and excellent packaging.,4,Positive
+694,Beauty,It works as expected.,3,Neutral
+695,Home,The product exceeded my expectations.,5,Positive
+696,Books,Very satisfied with this purchase.,5,Positive
+697,Fashion,Amazing product and worth the money.,5,Positive
+698,Fashion,Fast delivery and excellent packaging.,4,Positive
+699,Beauty,Amazing product and worth the money.,5,Positive
+700,Home,Bad experience and slow delivery.,1,Negative
+701,Beauty,Fast delivery and excellent packaging.,5,Positive
+702,Fashion,Very satisfied with this purchase.,5,Positive
+703,Fashion,The product exceeded my expectations.,4,Positive
+704,Books,The product exceeded my expectations.,4,Positive
+705,Fashion,Fast delivery and excellent packaging.,5,Positive
+706,Beauty,Not satisfied with this purchase.,2,Negative
+707,Fashion,The item arrived damaged.,2,Negative
+708,Fashion,The quality is acceptable.,3,Neutral
+709,Beauty,Highly recommended for everyone.,4,Positive
+710,Beauty,It works as expected.,3,Neutral
+711,Home,The product exceeded my expectations.,5,Positive
+712,Books,Very satisfied with this purchase.,4,Positive
+713,Home,Poor quality and not worth the money.,2,Negative
+714,Books,Amazing product and worth the money.,5,Positive
+715,Beauty,Highly recommended for everyone.,5,Positive
+716,Beauty,Highly recommended for everyone.,5,Positive
+717,Electronics,Very satisfied with this purchase.,4,Positive
+718,Home,Not satisfied with this purchase.,2,Negative
+719,Fashion,Very disappointed with the product.,2,Negative
+720,Electronics,The quality is acceptable.,3,Neutral
+721,Beauty,Very satisfied with this purchase.,4,Positive
+722,Books,The product stopped working quickly.,1,Negative
+723,Fashion,Fast delivery and excellent packaging.,4,Positive
+724,Electronics,The quality is acceptable.,3,Neutral
+725,Home,Excellent product and great quality.,4,Positive
+726,Home,Very satisfied with this purchase.,5,Positive
+727,Electronics,Very satisfied with this purchase.,5,Positive
+728,Fashion,The product exceeded my expectations.,5,Positive
+729,Electronics,Excellent product and great quality.,4,Positive
+730,Electronics,The experience was neither good nor bad.,3,Neutral
+731,Beauty,Poor quality and not worth the money.,1,Negative
+732,Beauty,Amazing product and worth the money.,5,Positive
+733,Books,Fast delivery and excellent packaging.,4,Positive
+734,Books,Poor quality and not worth the money.,2,Negative
+735,Books,Highly recommended for everyone.,4,Positive
+736,Home,Fast delivery and excellent packaging.,4,Positive
+737,Beauty,The product exceeded my expectations.,4,Positive
+738,Fashion,Highly recommended for everyone.,4,Positive
+739,Fashion,Fast delivery and excellent packaging.,4,Positive
+740,Beauty,Bad experience and slow delivery.,2,Negative
+741,Fashion,Fast delivery and excellent packaging.,4,Positive
+742,Fashion,Fast delivery and excellent packaging.,4,Positive
+743,Electronics,Average performance overall.,3,Neutral
+744,Home,The item arrived damaged.,1,Negative
+745,Home,Amazing product and worth the money.,5,Positive
+746,Beauty,Fast delivery and excellent packaging.,4,Positive
+747,Beauty,Amazing product and worth the money.,5,Positive
+748,Beauty,Not satisfied with this purchase.,1,Negative
+749,Home,Very satisfied with this purchase.,4,Positive
+750,Fashion,Fast delivery and excellent packaging.,4,Positive
+751,Home,The quality is acceptable.,3,Neutral
+752,Books,Fast delivery and excellent packaging.,5,Positive
+753,Books,Bad experience and slow delivery.,2,Negative
+754,Home,Highly recommended for everyone.,4,Positive
+755,Beauty,Very satisfied with this purchase.,4,Positive
+756,Beauty,Fast delivery and excellent packaging.,5,Positive
+757,Fashion,Highly recommended for everyone.,4,Positive
+758,Books,The item arrived damaged.,1,Negative
+759,Home,Fast delivery and excellent packaging.,4,Positive
+760,Fashion,Excellent product and great quality.,5,Positive
+761,Electronics,Excellent product and great quality.,5,Positive
+762,Beauty,Poor quality and not worth the money.,1,Negative
+763,Home,Not satisfied with this purchase.,2,Negative
+764,Electronics,Poor quality and not worth the money.,1,Negative
+765,Beauty,Highly recommended for everyone.,5,Positive
+766,Fashion,Very satisfied with this purchase.,5,Positive
+767,Home,Highly recommended for everyone.,4,Positive
+768,Electronics,The quality is acceptable.,3,Neutral
+769,Home,The experience was neither good nor bad.,3,Neutral
+770,Home,Poor quality and not worth the money.,1,Negative
+771,Books,Poor quality and not worth the money.,2,Negative
+772,Books,The product exceeded my expectations.,5,Positive
+773,Books,Excellent product and great quality.,4,Positive
+774,Books,Very satisfied with this purchase.,5,Positive
+775,Beauty,Delivery was on time.,3,Neutral
+776,Books,The product exceeded my expectations.,4,Positive
+777,Electronics,Not satisfied with this purchase.,2,Negative
+778,Books,Bad experience and slow delivery.,1,Negative
+779,Fashion,The quality is acceptable.,3,Neutral
+780,Beauty,Very satisfied with this purchase.,5,Positive
+781,Fashion,Highly recommended for everyone.,5,Positive
+782,Electronics,The product is average.,3,Neutral
+783,Electronics,Fast delivery and excellent packaging.,4,Positive
+784,Books,It works as expected.,3,Neutral
+785,Home,Fast delivery and excellent packaging.,4,Positive
+786,Home,Delivery was on time.,3,Neutral
+787,Electronics,Delivery was on time.,3,Neutral
+788,Fashion,The item arrived damaged.,1,Negative
+789,Electronics,Not satisfied with this purchase.,1,Negative
+790,Books,Very satisfied with this purchase.,4,Positive
+791,Electronics,Not satisfied with this purchase.,1,Negative
+792,Beauty,Excellent product and great quality.,4,Positive
+793,Electronics,The product exceeded my expectations.,5,Positive
+794,Books,Very satisfied with this purchase.,4,Positive
+795,Home,Bad experience and slow delivery.,1,Negative
+796,Electronics,The product exceeded my expectations.,4,Positive
+797,Books,Very satisfied with this purchase.,4,Positive
+798,Electronics,Poor quality and not worth the money.,1,Negative
+799,Books,Excellent product and great quality.,4,Positive
+800,Books,Amazing product and worth the money.,4,Positive
+801,Electronics,Bad experience and slow delivery.,1,Negative
+802,Electronics,It works as expected.,3,Neutral
+803,Books,Fast delivery and excellent packaging.,5,Positive
+804,Fashion,Amazing product and worth the money.,4,Positive
+805,Electronics,Poor quality and not worth the money.,2,Negative
+806,Fashion,The experience was neither good nor bad.,3,Neutral
+807,Books,Highly recommended for everyone.,4,Positive
+808,Books,Excellent product and great quality.,4,Positive
+809,Beauty,Amazing product and worth the money.,5,Positive
+810,Fashion,Excellent product and great quality.,5,Positive
+811,Fashion,Highly recommended for everyone.,5,Positive
+812,Electronics,Amazing product and worth the money.,5,Positive
+813,Fashion,Excellent product and great quality.,4,Positive
+814,Beauty,Excellent product and great quality.,5,Positive
+815,Books,The product exceeded my expectations.,5,Positive
+816,Fashion,Very disappointed with the product.,1,Negative
+817,Home,Excellent product and great quality.,4,Positive
+818,Fashion,Fast delivery and excellent packaging.,4,Positive
+819,Electronics,Not satisfied with this purchase.,1,Negative
+820,Books,Fast delivery and excellent packaging.,4,Positive
+821,Home,Very disappointed with the product.,2,Negative
+822,Electronics,The product exceeded my expectations.,4,Positive
+823,Home,Very satisfied with this purchase.,5,Positive
+824,Electronics,The product exceeded my expectations.,5,Positive
+825,Books,Very disappointed with the product.,2,Negative
+826,Beauty,Excellent product and great quality.,5,Positive
+827,Beauty,Bad experience and slow delivery.,2,Negative
+828,Fashion,Fast delivery and excellent packaging.,4,Positive
+829,Home,Excellent product and great quality.,4,Positive
+830,Electronics,Very disappointed with the product.,1,Negative
+831,Books,Fast delivery and excellent packaging.,5,Positive
+832,Electronics,It works as expected.,3,Neutral
+833,Home,The product exceeded my expectations.,5,Positive
+834,Fashion,Fast delivery and excellent packaging.,5,Positive
+835,Fashion,Average performance overall.,3,Neutral
+836,Home,The product exceeded my expectations.,4,Positive
+837,Books,Highly recommended for everyone.,4,Positive
+838,Fashion,Fast delivery and excellent packaging.,5,Positive
+839,Electronics,Highly recommended for everyone.,5,Positive
+840,Beauty,Very satisfied with this purchase.,5,Positive
+841,Home,Very satisfied with this purchase.,5,Positive
+842,Home,The product stopped working quickly.,1,Negative
+843,Home,Fast delivery and excellent packaging.,4,Positive
+844,Fashion,The product exceeded my expectations.,4,Positive
+845,Fashion,The product exceeded my expectations.,5,Positive
+846,Books,Highly recommended for everyone.,4,Positive
+847,Fashion,Excellent product and great quality.,4,Positive
+848,Fashion,Amazing product and worth the money.,5,Positive
+849,Beauty,The product exceeded my expectations.,4,Positive
+850,Electronics,Amazing product and worth the money.,5,Positive
+851,Home,Excellent product and great quality.,5,Positive
+852,Books,Very satisfied with this purchase.,5,Positive
+853,Fashion,Not satisfied with this purchase.,2,Negative
+854,Home,Amazing product and worth the money.,4,Positive
+855,Home,Highly recommended for everyone.,4,Positive
+856,Fashion,Fast delivery and excellent packaging.,5,Positive
+857,Home,Highly recommended for everyone.,5,Positive
+858,Electronics,Fast delivery and excellent packaging.,5,Positive
+859,Beauty,The product exceeded my expectations.,5,Positive
+860,Electronics,Very satisfied with this purchase.,4,Positive
+861,Beauty,The item arrived damaged.,2,Negative
+862,Home,Very satisfied with this purchase.,5,Positive
+863,Beauty,Fast delivery and excellent packaging.,5,Positive
+864,Books,Poor quality and not worth the money.,1,Negative
+865,Electronics,Amazing product and worth the money.,4,Positive
+866,Home,Amazing product and worth the money.,4,Positive
+867,Electronics,Delivery was on time.,3,Neutral
+868,Electronics,Very satisfied with this purchase.,4,Positive
+869,Books,It works as expected.,3,Neutral
+870,Fashion,The product is average.,3,Neutral
+871,Home,Fast delivery and excellent packaging.,4,Positive
+872,Books,The quality is acceptable.,3,Neutral
+873,Home,Fast delivery and excellent packaging.,5,Positive
+874,Fashion,Amazing product and worth the money.,5,Positive
+875,Beauty,Amazing product and worth the money.,4,Positive
+876,Books,Poor quality and not worth the money.,2,Negative
+877,Electronics,Highly recommended for everyone.,5,Positive
+878,Books,Fast delivery and excellent packaging.,4,Positive
+879,Beauty,Highly recommended for everyone.,4,Positive
+880,Books,Bad experience and slow delivery.,2,Negative
+881,Beauty,Fast delivery and excellent packaging.,5,Positive
+882,Home,Fast delivery and excellent packaging.,5,Positive
+883,Electronics,Highly recommended for everyone.,4,Positive
+884,Electronics,Delivery was on time.,3,Neutral
+885,Beauty,The quality is acceptable.,3,Neutral
+886,Home,Highly recommended for everyone.,4,Positive
+887,Fashion,The product exceeded my expectations.,4,Positive
+888,Home,The product exceeded my expectations.,4,Positive
+889,Home,Fast delivery and excellent packaging.,5,Positive
+890,Fashion,Highly recommended for everyone.,5,Positive
+891,Fashion,The product is average.,3,Neutral
+892,Home,Average performance overall.,3,Neutral
+893,Beauty,Amazing product and worth the money.,5,Positive
+894,Electronics,Fast delivery and excellent packaging.,4,Positive
+895,Electronics,Highly recommended for everyone.,4,Positive
+896,Beauty,Excellent product and great quality.,5,Positive
+897,Home,Amazing product and worth the money.,5,Positive
+898,Electronics,Delivery was on time.,3,Neutral
+899,Electronics,Highly recommended for everyone.,4,Positive
+900,Electronics,Delivery was on time.,3,Neutral
+901,Beauty,The product exceeded my expectations.,5,Positive
+902,Home,Very satisfied with this purchase.,5,Positive
+903,Books,The experience was neither good nor bad.,3,Neutral
+904,Home,Bad experience and slow delivery.,2,Negative
+905,Home,The product stopped working quickly.,2,Negative
+906,Fashion,Poor quality and not worth the money.,2,Negative
+907,Home,The item arrived damaged.,1,Negative
+908,Beauty,Not satisfied with this purchase.,2,Negative
+909,Beauty,Highly recommended for everyone.,5,Positive
+910,Books,Highly recommended for everyone.,4,Positive
+911,Home,The product exceeded my expectations.,4,Positive
+912,Electronics,Very satisfied with this purchase.,4,Positive
+913,Fashion,The experience was neither good nor bad.,3,Neutral
+914,Home,Very satisfied with this purchase.,4,Positive
+915,Electronics,The item arrived damaged.,2,Negative
+916,Books,Very disappointed with the product.,2,Negative
+917,Books,Poor quality and not worth the money.,2,Negative
+918,Beauty,Delivery was on time.,3,Neutral
+919,Home,Fast delivery and excellent packaging.,4,Positive
+920,Electronics,Excellent product and great quality.,5,Positive
+921,Fashion,Excellent product and great quality.,4,Positive
+922,Electronics,Fast delivery and excellent packaging.,4,Positive
+923,Beauty,Excellent product and great quality.,5,Positive
+924,Electronics,The quality is acceptable.,3,Neutral
+925,Beauty,The product exceeded my expectations.,4,Positive
+926,Electronics,It works as expected.,3,Neutral
+927,Books,Amazing product and worth the money.,4,Positive
+928,Fashion,Not satisfied with this purchase.,2,Negative
+929,Books,Excellent product and great quality.,4,Positive
+930,Electronics,Fast delivery and excellent packaging.,4,Positive
+931,Fashion,Fast delivery and excellent packaging.,4,Positive
+932,Beauty,The experience was neither good nor bad.,3,Neutral
+933,Home,Excellent product and great quality.,4,Positive
+934,Books,Very satisfied with this purchase.,4,Positive
+935,Books,Delivery was on time.,3,Neutral
+936,Electronics,The product exceeded my expectations.,5,Positive
+937,Fashion,Bad experience and slow delivery.,1,Negative
+938,Home,Delivery was on time.,3,Neutral
+939,Books,Very satisfied with this purchase.,5,Positive
+940,Home,Very satisfied with this purchase.,4,Positive
+941,Electronics,Not satisfied with this purchase.,1,Negative
+942,Beauty,The product stopped working quickly.,2,Negative
+943,Beauty,Excellent product and great quality.,5,Positive
+944,Beauty,Highly recommended for everyone.,5,Positive
+945,Fashion,The quality is acceptable.,3,Neutral
+946,Beauty,The product exceeded my expectations.,4,Positive
+947,Electronics,Highly recommended for everyone.,4,Positive
+948,Home,The quality is acceptable.,3,Neutral
+949,Home,It works as expected.,3,Neutral
+950,Electronics,It works as expected.,3,Neutral
+951,Home,The product exceeded my expectations.,5,Positive
+952,Home,The experience was neither good nor bad.,3,Neutral
+953,Fashion,Delivery was on time.,3,Neutral
+954,Electronics,The product is average.,3,Neutral
+955,Fashion,Fast delivery and excellent packaging.,5,Positive
+956,Electronics,Excellent product and great quality.,5,Positive
+957,Electronics,Amazing product and worth the money.,4,Positive
+958,Beauty,Excellent product and great quality.,5,Positive
+959,Fashion,The quality is acceptable.,3,Neutral
+960,Electronics,Fast delivery and excellent packaging.,5,Positive
+961,Beauty,Fast delivery and excellent packaging.,4,Positive
+962,Electronics,Not satisfied with this purchase.,2,Negative
+963,Electronics,Very satisfied with this purchase.,4,Positive
+964,Electronics,The item arrived damaged.,2,Negative
+965,Fashion,Very satisfied with this purchase.,5,Positive
+966,Electronics,The experience was neither good nor bad.,3,Neutral
+967,Home,It works as expected.,3,Neutral
+968,Fashion,The product exceeded my expectations.,5,Positive
+969,Home,Fast delivery and excellent packaging.,4,Positive
+970,Beauty,Fast delivery and excellent packaging.,5,Positive
+971,Beauty,The product is average.,3,Neutral
+972,Beauty,Very disappointed with the product.,2,Negative
+973,Home,Highly recommended for everyone.,4,Positive
+974,Home,Amazing product and worth the money.,4,Positive
+975,Home,Excellent product and great quality.,5,Positive
+976,Electronics,Fast delivery and excellent packaging.,5,Positive
+977,Books,Poor quality and not worth the money.,2,Negative
+978,Beauty,Amazing product and worth the money.,5,Positive
+979,Fashion,Very satisfied with this purchase.,4,Positive
+980,Fashion,Not satisfied with this purchase.,1,Negative
+981,Beauty,Excellent product and great quality.,4,Positive
+982,Home,Poor quality and not worth the money.,1,Negative
+983,Beauty,The item arrived damaged.,2,Negative
+984,Books,The product exceeded my expectations.,4,Positive
+985,Home,The experience was neither good nor bad.,3,Neutral
+986,Fashion,Very disappointed with the product.,1,Negative
+987,Books,The item arrived damaged.,2,Negative
+988,Books,Delivery was on time.,3,Neutral
+989,Beauty,Fast delivery and excellent packaging.,5,Positive
+990,Beauty,The quality is acceptable.,3,Neutral
+991,Beauty,Highly recommended for everyone.,5,Positive
+992,Fashion,The product stopped working quickly.,2,Negative
+993,Fashion,Bad experience and slow delivery.,1,Negative
+994,Fashion,The experience was neither good nor bad.,3,Neutral
+995,Fashion,Delivery was on time.,3,Neutral
+996,Electronics,Highly recommended for everyone.,4,Positive
+997,Books,Average performance overall.,3,Neutral
+998,Electronics,Not satisfied with this purchase.,1,Negative
+999,Books,The item arrived damaged.,2,Negative
+1000,Beauty,The product exceeded my expectations.,4,Positive
+1001,Fashion,The product stopped working quickly.,1,Negative
+1002,Fashion,Poor quality and not worth the money.,2,Negative
+1003,Fashion,Amazing product and worth the money.,4,Positive
+1004,Beauty,Amazing product and worth the money.,5,Positive
+1005,Electronics,Poor quality and not worth the money.,2,Negative
+1006,Books,Amazing product and worth the money.,5,Positive
+1007,Fashion,The item arrived damaged.,2,Negative
+1008,Books,Fast delivery and excellent packaging.,4,Positive
+1009,Books,The product exceeded my expectations.,4,Positive
+1010,Electronics,Average performance overall.,3,Neutral
+1011,Beauty,The quality is acceptable.,3,Neutral
+1012,Home,Excellent product and great quality.,4,Positive
+1013,Books,Delivery was on time.,3,Neutral
+1014,Home,The quality is acceptable.,3,Neutral
+1015,Electronics,The product exceeded my expectations.,4,Positive
+1016,Fashion,The product exceeded my expectations.,4,Positive
+1017,Fashion,Very disappointed with the product.,2,Negative
+1018,Books,Amazing product and worth the money.,4,Positive
+1019,Beauty,Very disappointed with the product.,1,Negative
+1020,Books,Fast delivery and excellent packaging.,5,Positive
+1021,Electronics,The quality is acceptable.,3,Neutral
+1022,Electronics,Amazing product and worth the money.,5,Positive
+1023,Home,Average performance overall.,3,Neutral
+1024,Home,Excellent product and great quality.,4,Positive
+1025,Home,The item arrived damaged.,2,Negative
+1026,Home,Highly recommended for everyone.,5,Positive
+1027,Fashion,Excellent product and great quality.,5,Positive
+1028,Books,Highly recommended for everyone.,5,Positive
+1029,Fashion,It works as expected.,3,Neutral
+1030,Fashion,The quality is acceptable.,3,Neutral
+1031,Electronics,Poor quality and not worth the money.,2,Negative
+1032,Home,The product exceeded my expectations.,4,Positive
+1033,Electronics,The product stopped working quickly.,1,Negative
+1034,Books,The product exceeded my expectations.,4,Positive
+1035,Beauty,Delivery was on time.,3,Neutral
+1036,Electronics,The product stopped working quickly.,1,Negative
+1037,Electronics,Very disappointed with the product.,1,Negative
+1038,Beauty,Fast delivery and excellent packaging.,4,Positive
+1039,Home,The product exceeded my expectations.,4,Positive
+1040,Fashion,Not satisfied with this purchase.,1,Negative
+1041,Beauty,Excellent product and great quality.,5,Positive
+1042,Electronics,Poor quality and not worth the money.,2,Negative
+1043,Fashion,Highly recommended for everyone.,4,Positive
+1044,Home,Excellent product and great quality.,5,Positive
+1045,Fashion,The item arrived damaged.,1,Negative
+1046,Electronics,The item arrived damaged.,1,Negative
+1047,Fashion,Amazing product and worth the money.,5,Positive
+1048,Electronics,Excellent product and great quality.,4,Positive
+1049,Books,The experience was neither good nor bad.,3,Neutral
+1050,Electronics,Excellent product and great quality.,4,Positive
+1051,Home,The experience was neither good nor bad.,3,Neutral
+1052,Books,Very satisfied with this purchase.,5,Positive
+1053,Fashion,Amazing product and worth the money.,4,Positive
+1054,Books,The product exceeded my expectations.,5,Positive
+1055,Electronics,Very disappointed with the product.,1,Negative
+1056,Home,The experience was neither good nor bad.,3,Neutral
+1057,Electronics,Fast delivery and excellent packaging.,5,Positive
+1058,Electronics,Very satisfied with this purchase.,4,Positive
+1059,Books,Fast delivery and excellent packaging.,5,Positive
+1060,Home,Bad experience and slow delivery.,2,Negative
+1061,Home,The product exceeded my expectations.,4,Positive
+1062,Beauty,Highly recommended for everyone.,5,Positive
+1063,Fashion,Poor quality and not worth the money.,2,Negative
+1064,Books,Not satisfied with this purchase.,1,Negative
+1065,Books,The product is average.,3,Neutral
+1066,Fashion,Excellent product and great quality.,5,Positive
+1067,Fashion,The product exceeded my expectations.,4,Positive
+1068,Books,The product exceeded my expectations.,4,Positive
+1069,Fashion,Poor quality and not worth the money.,2,Negative
+1070,Home,Not satisfied with this purchase.,2,Negative
+1071,Beauty,Average performance overall.,3,Neutral
+1072,Beauty,The product exceeded my expectations.,4,Positive
+1073,Home,The quality is acceptable.,3,Neutral
+1074,Home,Fast delivery and excellent packaging.,5,Positive
+1075,Beauty,Very satisfied with this purchase.,4,Positive
+1076,Books,The product exceeded my expectations.,5,Positive
+1077,Books,The product is average.,3,Neutral
+1078,Electronics,Highly recommended for everyone.,5,Positive
+1079,Fashion,The quality is acceptable.,3,Neutral
+1080,Electronics,Fast delivery and excellent packaging.,4,Positive
+1081,Electronics,Excellent product and great quality.,4,Positive
+1082,Beauty,The product stopped working quickly.,2,Negative
+1083,Fashion,The product exceeded my expectations.,5,Positive
+1084,Books,Excellent product and great quality.,4,Positive
+1085,Fashion,Highly recommended for everyone.,5,Positive
+1086,Home,Very disappointed with the product.,1,Negative
+1087,Beauty,Very satisfied with this purchase.,5,Positive
+1088,Electronics,The product exceeded my expectations.,4,Positive
+1089,Home,The quality is acceptable.,3,Neutral
+1090,Books,The experience was neither good nor bad.,3,Neutral
+1091,Home,Highly recommended for everyone.,4,Positive
+1092,Books,Fast delivery and excellent packaging.,4,Positive
+1093,Fashion,It works as expected.,3,Neutral
+1094,Beauty,Fast delivery and excellent packaging.,4,Positive
+1095,Beauty,Fast delivery and excellent packaging.,5,Positive
+1096,Books,It works as expected.,3,Neutral
+1097,Beauty,The product exceeded my expectations.,4,Positive
+1098,Books,Average performance overall.,3,Neutral
+1099,Beauty,It works as expected.,3,Neutral
+1100,Books,Amazing product and worth the money.,4,Positive
+1101,Beauty,The product stopped working quickly.,2,Negative
+1102,Beauty,The quality is acceptable.,3,Neutral
+1103,Fashion,It works as expected.,3,Neutral
+1104,Books,Very satisfied with this purchase.,5,Positive
+1105,Books,It works as expected.,3,Neutral
+1106,Beauty,Not satisfied with this purchase.,2,Negative
+1107,Beauty,The experience was neither good nor bad.,3,Neutral
+1108,Beauty,Poor quality and not worth the money.,1,Negative
+1109,Home,Not satisfied with this purchase.,2,Negative
+1110,Home,The experience was neither good nor bad.,3,Neutral
+1111,Electronics,The product exceeded my expectations.,5,Positive
+1112,Beauty,The product stopped working quickly.,2,Negative
+1113,Beauty,The product exceeded my expectations.,5,Positive
+1114,Beauty,Fast delivery and excellent packaging.,4,Positive
+1115,Electronics,Fast delivery and excellent packaging.,4,Positive
+1116,Home,Poor quality and not worth the money.,2,Negative
+1117,Fashion,The experience was neither good nor bad.,3,Neutral
+1118,Home,Excellent product and great quality.,5,Positive
+1119,Books,Very disappointed with the product.,2,Negative
+1120,Beauty,The product exceeded my expectations.,4,Positive
+1121,Electronics,Highly recommended for everyone.,5,Positive
+1122,Books,The quality is acceptable.,3,Neutral
+1123,Fashion,The experience was neither good nor bad.,3,Neutral
+1124,Electronics,The product is average.,3,Neutral
+1125,Home,Poor quality and not worth the money.,2,Negative
+1126,Fashion,The experience was neither good nor bad.,3,Neutral
+1127,Home,The product stopped working quickly.,1,Negative
+1128,Home,Amazing product and worth the money.,4,Positive
+1129,Beauty,The experience was neither good nor bad.,3,Neutral
+1130,Fashion,Excellent product and great quality.,5,Positive
+1131,Beauty,Amazing product and worth the money.,4,Positive
+1132,Fashion,The product is average.,3,Neutral
+1133,Home,Amazing product and worth the money.,4,Positive
+1134,Electronics,Average performance overall.,3,Neutral
+1135,Books,Not satisfied with this purchase.,2,Negative
+1136,Electronics,The product stopped working quickly.,2,Negative
+1137,Home,The item arrived damaged.,1,Negative
+1138,Books,Highly recommended for everyone.,4,Positive
+1139,Fashion,Fast delivery and excellent packaging.,4,Positive
+1140,Fashion,Amazing product and worth the money.,5,Positive
+1141,Beauty,Amazing product and worth the money.,5,Positive
+1142,Electronics,The experience was neither good nor bad.,3,Neutral
+1143,Home,Very satisfied with this purchase.,5,Positive
+1144,Beauty,Average performance overall.,3,Neutral
+1145,Books,Excellent product and great quality.,5,Positive
+1146,Books,The product is average.,3,Neutral
+1147,Electronics,The product exceeded my expectations.,5,Positive
+1148,Beauty,Delivery was on time.,3,Neutral
+1149,Books,The quality is acceptable.,3,Neutral
+1150,Fashion,The product exceeded my expectations.,4,Positive
+1151,Beauty,Excellent product and great quality.,4,Positive
+1152,Home,The product exceeded my expectations.,4,Positive
+1153,Electronics,Poor quality and not worth the money.,2,Negative
+1154,Electronics,The product exceeded my expectations.,5,Positive
+1155,Books,Poor quality and not worth the money.,1,Negative
+1156,Electronics,Very disappointed with the product.,1,Negative
+1157,Beauty,Very satisfied with this purchase.,4,Positive
+1158,Books,Delivery was on time.,3,Neutral
+1159,Books,The product exceeded my expectations.,5,Positive
+1160,Beauty,Fast delivery and excellent packaging.,4,Positive
+1161,Beauty,The product exceeded my expectations.,4,Positive
+1162,Beauty,Excellent product and great quality.,5,Positive
+1163,Beauty,The product exceeded my expectations.,5,Positive
+1164,Books,Fast delivery and excellent packaging.,5,Positive
+1165,Books,The product is average.,3,Neutral
+1166,Books,Amazing product and worth the money.,4,Positive
+1167,Home,The product stopped working quickly.,2,Negative
+1168,Electronics,The product exceeded my expectations.,5,Positive
+1169,Electronics,Highly recommended for everyone.,4,Positive
+1170,Beauty,Highly recommended for everyone.,5,Positive
+1171,Home,Excellent product and great quality.,5,Positive
+1172,Home,Not satisfied with this purchase.,2,Negative
+1173,Home,The product exceeded my expectations.,4,Positive
+1174,Home,Highly recommended for everyone.,5,Positive
+1175,Beauty,The product exceeded my expectations.,4,Positive
+1176,Fashion,Highly recommended for everyone.,4,Positive
+1177,Home,The item arrived damaged.,1,Negative
+1178,Fashion,Bad experience and slow delivery.,2,Negative
+1179,Electronics,The product exceeded my expectations.,4,Positive
+1180,Fashion,Excellent product and great quality.,4,Positive
+1181,Beauty,Very satisfied with this purchase.,5,Positive
+1182,Fashion,Highly recommended for everyone.,5,Positive
+1183,Electronics,It works as expected.,3,Neutral
+1184,Fashion,Amazing product and worth the money.,5,Positive
+1185,Fashion,It works as expected.,3,Neutral
+1186,Books,The quality is acceptable.,3,Neutral
+1187,Beauty,Very satisfied with this purchase.,5,Positive
+1188,Fashion,The product exceeded my expectations.,4,Positive
+1189,Beauty,It works as expected.,3,Neutral
+1190,Electronics,The product exceeded my expectations.,4,Positive
+1191,Electronics,Average performance overall.,3,Neutral
+1192,Books,Average performance overall.,3,Neutral
+1193,Beauty,Poor quality and not worth the money.,1,Negative
+1194,Home,Highly recommended for everyone.,5,Positive
+1195,Home,Amazing product and worth the money.,5,Positive
+1196,Books,Highly recommended for everyone.,4,Positive
+1197,Beauty,Excellent product and great quality.,4,Positive
+1198,Books,The product stopped working quickly.,1,Negative
+1199,Books,Highly recommended for everyone.,4,Positive
+1200,Home,The product is average.,3,Neutral
+1201,Fashion,Poor quality and not worth the money.,1,Negative
+1202,Beauty,Excellent product and great quality.,4,Positive
+1203,Books,Delivery was on time.,3,Neutral
+1204,Electronics,Fast delivery and excellent packaging.,4,Positive
+1205,Electronics,Delivery was on time.,3,Neutral
+1206,Fashion,The product stopped working quickly.,2,Negative
+1207,Books,Highly recommended for everyone.,4,Positive
+1208,Beauty,The item arrived damaged.,1,Negative
+1209,Fashion,Amazing product and worth the money.,5,Positive
+1210,Books,Delivery was on time.,3,Neutral
+1211,Beauty,The product stopped working quickly.,1,Negative
+1212,Home,The quality is acceptable.,3,Neutral
+1213,Home,Highly recommended for everyone.,5,Positive
+1214,Beauty,Amazing product and worth the money.,5,Positive
+1215,Books,Very disappointed with the product.,1,Negative
+1216,Electronics,The experience was neither good nor bad.,3,Neutral
+1217,Home,Fast delivery and excellent packaging.,5,Positive
+1218,Electronics,The product exceeded my expectations.,5,Positive
+1219,Home,Amazing product and worth the money.,4,Positive
+1220,Electronics,Very disappointed with the product.,1,Negative
+1221,Beauty,Amazing product and worth the money.,5,Positive
+1222,Electronics,The experience was neither good nor bad.,3,Neutral
+1223,Fashion,The experience was neither good nor bad.,3,Neutral
+1224,Books,It works as expected.,3,Neutral
+1225,Home,Bad experience and slow delivery.,2,Negative
+1226,Beauty,Fast delivery and excellent packaging.,4,Positive
+1227,Beauty,It works as expected.,3,Neutral
+1228,Fashion,The item arrived damaged.,1,Negative
+1229,Beauty,Average performance overall.,3,Neutral
+1230,Home,Fast delivery and excellent packaging.,5,Positive
+1231,Home,Amazing product and worth the money.,5,Positive
+1232,Beauty,Poor quality and not worth the money.,2,Negative
+1233,Electronics,Highly recommended for everyone.,4,Positive
+1234,Books,Amazing product and worth the money.,4,Positive
+1235,Beauty,Very satisfied with this purchase.,4,Positive
+1236,Fashion,Fast delivery and excellent packaging.,5,Positive
+1237,Books,The product exceeded my expectations.,4,Positive
+1238,Electronics,Fast delivery and excellent packaging.,4,Positive
+1239,Fashion,Highly recommended for everyone.,5,Positive
+1240,Beauty,The product exceeded my expectations.,4,Positive
+1241,Books,Highly recommended for everyone.,4,Positive
+1242,Books,Not satisfied with this purchase.,2,Negative
+1243,Beauty,Amazing product and worth the money.,5,Positive
+1244,Beauty,Highly recommended for everyone.,5,Positive
+1245,Home,Very satisfied with this purchase.,5,Positive
+1246,Home,Highly recommended for everyone.,5,Positive
+1247,Fashion,Highly recommended for everyone.,5,Positive
+1248,Fashion,Average performance overall.,3,Neutral
+1249,Electronics,Bad experience and slow delivery.,1,Negative
+1250,Electronics,Bad experience and slow delivery.,1,Negative
+1251,Beauty,Fast delivery and excellent packaging.,5,Positive
+1252,Home,Not satisfied with this purchase.,1,Negative
+1253,Electronics,The product exceeded my expectations.,4,Positive
+1254,Beauty,The quality is acceptable.,3,Neutral
+1255,Home,Excellent product and great quality.,5,Positive
+1256,Books,Highly recommended for everyone.,4,Positive
+1257,Beauty,The quality is acceptable.,3,Neutral
+1258,Home,The item arrived damaged.,1,Negative
+1259,Home,Bad experience and slow delivery.,1,Negative
+1260,Fashion,Average performance overall.,3,Neutral
+1261,Beauty,Highly recommended for everyone.,4,Positive
+1262,Home,Excellent product and great quality.,5,Positive
+1263,Fashion,Poor quality and not worth the money.,1,Negative
+1264,Books,The item arrived damaged.,2,Negative
+1265,Electronics,Highly recommended for everyone.,4,Positive
+1266,Fashion,Average performance overall.,3,Neutral
+1267,Fashion,The product stopped working quickly.,2,Negative
+1268,Home,Delivery was on time.,3,Neutral
+1269,Books,Poor quality and not worth the money.,2,Negative
+1270,Books,Very satisfied with this purchase.,4,Positive
+1271,Beauty,Highly recommended for everyone.,4,Positive
+1272,Beauty,Excellent product and great quality.,5,Positive
+1273,Fashion,Average performance overall.,3,Neutral
+1274,Home,Bad experience and slow delivery.,2,Negative
+1275,Beauty,Bad experience and slow delivery.,2,Negative
+1276,Electronics,The quality is acceptable.,3,Neutral
+1277,Home,Fast delivery and excellent packaging.,4,Positive
+1278,Fashion,The quality is acceptable.,3,Neutral
+1279,Home,Excellent product and great quality.,5,Positive
+1280,Electronics,Fast delivery and excellent packaging.,5,Positive
+1281,Fashion,Amazing product and worth the money.,5,Positive
+1282,Home,Highly recommended for everyone.,5,Positive
+1283,Home,The experience was neither good nor bad.,3,Neutral
+1284,Home,Amazing product and worth the money.,4,Positive
+1285,Home,It works as expected.,3,Neutral
+1286,Home,Amazing product and worth the money.,5,Positive
+1287,Books,Very disappointed with the product.,1,Negative
+1288,Books,The product stopped working quickly.,1,Negative
+1289,Beauty,Very satisfied with this purchase.,5,Positive
+1290,Home,The quality is acceptable.,3,Neutral
+1291,Fashion,Average performance overall.,3,Neutral
+1292,Electronics,Highly recommended for everyone.,4,Positive
+1293,Beauty,Fast delivery and excellent packaging.,5,Positive
+1294,Home,Very satisfied with this purchase.,5,Positive
+1295,Fashion,Excellent product and great quality.,5,Positive
+1296,Books,Very disappointed with the product.,1,Negative
+1297,Beauty,Very satisfied with this purchase.,5,Positive
+1298,Beauty,It works as expected.,3,Neutral
+1299,Beauty,Very satisfied with this purchase.,5,Positive
+1300,Books,Amazing product and worth the money.,5,Positive
+1301,Fashion,The product exceeded my expectations.,5,Positive
+1302,Books,Delivery was on time.,3,Neutral
+1303,Electronics,Amazing product and worth the money.,4,Positive
+1304,Books,Poor quality and not worth the money.,2,Negative
+1305,Books,The product exceeded my expectations.,4,Positive
+1306,Books,It works as expected.,3,Neutral
+1307,Books,The product exceeded my expectations.,5,Positive
+1308,Books,Highly recommended for everyone.,4,Positive
+1309,Home,Amazing product and worth the money.,4,Positive
+1310,Electronics,The quality is acceptable.,3,Neutral
+1311,Fashion,Very satisfied with this purchase.,5,Positive
+1312,Fashion,Highly recommended for everyone.,5,Positive
+1313,Beauty,Excellent product and great quality.,5,Positive
+1314,Fashion,Highly recommended for everyone.,4,Positive
+1315,Books,The product exceeded my expectations.,5,Positive
+1316,Beauty,The quality is acceptable.,3,Neutral
+1317,Home,The product exceeded my expectations.,4,Positive
+1318,Beauty,The item arrived damaged.,2,Negative
+1319,Home,Excellent product and great quality.,4,Positive
+1320,Fashion,Very satisfied with this purchase.,5,Positive
+1321,Fashion,The product stopped working quickly.,2,Negative
+1322,Beauty,Delivery was on time.,3,Neutral
+1323,Home,Fast delivery and excellent packaging.,5,Positive
+1324,Home,Excellent product and great quality.,4,Positive
+1325,Home,Not satisfied with this purchase.,1,Negative
+1326,Electronics,Excellent product and great quality.,4,Positive
+1327,Beauty,The quality is acceptable.,3,Neutral
+1328,Electronics,Fast delivery and excellent packaging.,4,Positive
+1329,Books,Amazing product and worth the money.,4,Positive
+1330,Books,Amazing product and worth the money.,5,Positive
+1331,Electronics,Poor quality and not worth the money.,1,Negative
+1332,Books,Very satisfied with this purchase.,5,Positive
+1333,Beauty,Highly recommended for everyone.,5,Positive
+1334,Beauty,The product exceeded my expectations.,4,Positive
+1335,Beauty,The product exceeded my expectations.,5,Positive
+1336,Fashion,The product stopped working quickly.,2,Negative
+1337,Books,Amazing product and worth the money.,4,Positive
+1338,Home,Fast delivery and excellent packaging.,5,Positive
+1339,Fashion,Excellent product and great quality.,4,Positive
+1340,Books,Highly recommended for everyone.,4,Positive
+1341,Fashion,The quality is acceptable.,3,Neutral
+1342,Beauty,Fast delivery and excellent packaging.,5,Positive
+1343,Home,Excellent product and great quality.,5,Positive
+1344,Books,Highly recommended for everyone.,5,Positive
+1345,Books,The product exceeded my expectations.,5,Positive
+1346,Home,Excellent product and great quality.,5,Positive
+1347,Fashion,Highly recommended for everyone.,5,Positive
+1348,Books,The product stopped working quickly.,2,Negative
+1349,Home,Excellent product and great quality.,4,Positive
+1350,Beauty,The product exceeded my expectations.,5,Positive
+1351,Home,The product exceeded my expectations.,5,Positive
+1352,Beauty,Amazing product and worth the money.,4,Positive
+1353,Fashion,Excellent product and great quality.,5,Positive
+1354,Home,Fast delivery and excellent packaging.,4,Positive
+1355,Home,Excellent product and great quality.,5,Positive
+1356,Fashion,Very satisfied with this purchase.,5,Positive
+1357,Electronics,Excellent product and great quality.,5,Positive
+1358,Electronics,It works as expected.,3,Neutral
+1359,Beauty,Fast delivery and excellent packaging.,4,Positive
+1360,Books,Amazing product and worth the money.,5,Positive
+1361,Home,The product is average.,3,Neutral
+1362,Electronics,Fast delivery and excellent packaging.,4,Positive
+1363,Beauty,The product exceeded my expectations.,4,Positive
+1364,Books,Poor quality and not worth the money.,2,Negative
+1365,Home,The item arrived damaged.,2,Negative
+1366,Fashion,Very disappointed with the product.,1,Negative
+1367,Fashion,Very satisfied with this purchase.,4,Positive
+1368,Home,The experience was neither good nor bad.,3,Neutral
+1369,Books,It works as expected.,3,Neutral
+1370,Beauty,Amazing product and worth the money.,5,Positive
+1371,Electronics,Amazing product and worth the money.,4,Positive
+1372,Beauty,The product exceeded my expectations.,5,Positive
+1373,Home,Excellent product and great quality.,4,Positive
+1374,Electronics,The product exceeded my expectations.,5,Positive
+1375,Beauty,The product exceeded my expectations.,4,Positive
+1376,Home,Poor quality and not worth the money.,2,Negative
+1377,Books,Highly recommended for everyone.,5,Positive
+1378,Fashion,Very disappointed with the product.,2,Negative
+1379,Books,The item arrived damaged.,1,Negative
+1380,Beauty,The product stopped working quickly.,2,Negative
+1381,Beauty,Poor quality and not worth the money.,1,Negative
+1382,Fashion,The product exceeded my expectations.,5,Positive
+1383,Beauty,Average performance overall.,3,Neutral
+1384,Books,Highly recommended for everyone.,4,Positive
+1385,Books,Very satisfied with this purchase.,5,Positive
+1386,Home,The product exceeded my expectations.,5,Positive
+1387,Fashion,Average performance overall.,3,Neutral
+1388,Electronics,Poor quality and not worth the money.,2,Negative
+1389,Home,The product stopped working quickly.,2,Negative
+1390,Beauty,Fast delivery and excellent packaging.,4,Positive
+1391,Electronics,Fast delivery and excellent packaging.,5,Positive
+1392,Electronics,The product exceeded my expectations.,4,Positive
+1393,Home,It works as expected.,3,Neutral
+1394,Electronics,It works as expected.,3,Neutral
+1395,Beauty,Excellent product and great quality.,4,Positive
+1396,Beauty,Bad experience and slow delivery.,2,Negative
+1397,Electronics,The product stopped working quickly.,2,Negative
+1398,Electronics,Highly recommended for everyone.,4,Positive
+1399,Books,It works as expected.,3,Neutral
+1400,Books,The product is average.,3,Neutral
+1401,Fashion,The product is average.,3,Neutral
+1402,Electronics,Fast delivery and excellent packaging.,5,Positive
+1403,Beauty,Delivery was on time.,3,Neutral
+1404,Electronics,Excellent product and great quality.,5,Positive
+1405,Electronics,Average performance overall.,3,Neutral
+1406,Home,Amazing product and worth the money.,5,Positive
+1407,Beauty,The product exceeded my expectations.,4,Positive
+1408,Electronics,Poor quality and not worth the money.,2,Negative
+1409,Books,The product stopped working quickly.,2,Negative
+1410,Home,Bad experience and slow delivery.,1,Negative
+1411,Beauty,The product stopped working quickly.,2,Negative
+1412,Fashion,Amazing product and worth the money.,5,Positive
+1413,Fashion,Average performance overall.,3,Neutral
+1414,Books,The quality is acceptable.,3,Neutral
+1415,Beauty,Delivery was on time.,3,Neutral
+1416,Books,Highly recommended for everyone.,4,Positive
+1417,Fashion,Not satisfied with this purchase.,2,Negative
+1418,Books,The quality is acceptable.,3,Neutral
+1419,Beauty,Excellent product and great quality.,5,Positive
+1420,Electronics,Amazing product and worth the money.,5,Positive
+1421,Fashion,Amazing product and worth the money.,4,Positive
+1422,Beauty,The product exceeded my expectations.,5,Positive
+1423,Electronics,Highly recommended for everyone.,4,Positive
+1424,Home,Very satisfied with this purchase.,4,Positive
+1425,Home,Highly recommended for everyone.,4,Positive
+1426,Beauty,Very satisfied with this purchase.,4,Positive
+1427,Fashion,Amazing product and worth the money.,4,Positive
+1428,Beauty,Poor quality and not worth the money.,2,Negative
+1429,Beauty,The product is average.,3,Neutral
+1430,Electronics,Very disappointed with the product.,2,Negative
+1431,Books,The item arrived damaged.,2,Negative
+1432,Beauty,Excellent product and great quality.,4,Positive
+1433,Books,The experience was neither good nor bad.,3,Neutral
+1434,Fashion,Highly recommended for everyone.,4,Positive
+1435,Beauty,Amazing product and worth the money.,5,Positive
+1436,Books,Poor quality and not worth the money.,1,Negative
+1437,Beauty,Average performance overall.,3,Neutral
+1438,Fashion,Amazing product and worth the money.,5,Positive
+1439,Fashion,Poor quality and not worth the money.,1,Negative
+1440,Beauty,Highly recommended for everyone.,4,Positive
+1441,Beauty,Excellent product and great quality.,5,Positive
+1442,Home,The product exceeded my expectations.,4,Positive
+1443,Books,Amazing product and worth the money.,5,Positive
+1444,Home,Poor quality and not worth the money.,1,Negative
+1445,Beauty,Fast delivery and excellent packaging.,5,Positive
+1446,Books,The product exceeded my expectations.,5,Positive
+1447,Fashion,Amazing product and worth the money.,5,Positive
+1448,Home,Excellent product and great quality.,5,Positive
+1449,Books,Average performance overall.,3,Neutral
+1450,Home,Bad experience and slow delivery.,1,Negative
+1451,Electronics,Very satisfied with this purchase.,4,Positive
+1452,Beauty,Excellent product and great quality.,4,Positive
+1453,Electronics,Delivery was on time.,3,Neutral
+1454,Books,Excellent product and great quality.,5,Positive
+1455,Beauty,Very satisfied with this purchase.,4,Positive
+1456,Beauty,Highly recommended for everyone.,5,Positive
+1457,Electronics,The product exceeded my expectations.,4,Positive
+1458,Fashion,The product exceeded my expectations.,4,Positive
+1459,Beauty,Very satisfied with this purchase.,4,Positive
+1460,Electronics,Fast delivery and excellent packaging.,4,Positive
+1461,Electronics,Very satisfied with this purchase.,5,Positive
+1462,Home,The product exceeded my expectations.,5,Positive
+1463,Electronics,Average performance overall.,3,Neutral
+1464,Beauty,The quality is acceptable.,3,Neutral
+1465,Beauty,Amazing product and worth the money.,4,Positive
+1466,Electronics,Average performance overall.,3,Neutral
+1467,Fashion,Highly recommended for everyone.,5,Positive
+1468,Electronics,The product exceeded my expectations.,4,Positive
+1469,Fashion,Very satisfied with this purchase.,5,Positive
+1470,Electronics,Highly recommended for everyone.,5,Positive
+1471,Beauty,Bad experience and slow delivery.,1,Negative
+1472,Home,It works as expected.,3,Neutral
+1473,Electronics,Fast delivery and excellent packaging.,4,Positive
+1474,Books,The product stopped working quickly.,1,Negative
+1475,Fashion,Amazing product and worth the money.,5,Positive
+1476,Books,Delivery was on time.,3,Neutral
+1477,Beauty,Amazing product and worth the money.,4,Positive
+1478,Fashion,Amazing product and worth the money.,4,Positive
+1479,Books,The product stopped working quickly.,1,Negative
+1480,Beauty,It works as expected.,3,Neutral
+1481,Electronics,Delivery was on time.,3,Neutral
+1482,Home,The product exceeded my expectations.,4,Positive
+1483,Fashion,Amazing product and worth the money.,4,Positive
+1484,Books,The quality is acceptable.,3,Neutral
+1485,Home,The product exceeded my expectations.,5,Positive
+1486,Home,Very disappointed with the product.,1,Negative
+1487,Beauty,Highly recommended for everyone.,5,Positive
+1488,Home,Amazing product and worth the money.,4,Positive
+1489,Books,The item arrived damaged.,1,Negative
+1490,Fashion,Highly recommended for everyone.,5,Positive
+1491,Books,Fast delivery and excellent packaging.,5,Positive
+1492,Electronics,Amazing product and worth the money.,4,Positive
+1493,Books,Excellent product and great quality.,5,Positive
+1494,Home,The product exceeded my expectations.,4,Positive
+1495,Fashion,Fast delivery and excellent packaging.,5,Positive
+1496,Books,It works as expected.,3,Neutral
+1497,Fashion,Excellent product and great quality.,5,Positive
+1498,Beauty,The product exceeded my expectations.,4,Positive
+1499,Home,Fast delivery and excellent packaging.,4,Positive
+1500,Beauty,Fast delivery and excellent packaging.,4,Positive
+1501,Home,The product exceeded my expectations.,4,Positive
+1502,Fashion,Fast delivery and excellent packaging.,5,Positive
+1503,Beauty,Fast delivery and excellent packaging.,5,Positive
+1504,Beauty,The experience was neither good nor bad.,3,Neutral
+1505,Books,The quality is acceptable.,3,Neutral
+1506,Home,Highly recommended for everyone.,4,Positive
+1507,Books,Not satisfied with this purchase.,1,Negative
+1508,Home,Fast delivery and excellent packaging.,4,Positive
+1509,Books,The product exceeded my expectations.,4,Positive
+1510,Electronics,Very satisfied with this purchase.,4,Positive
+1511,Fashion,The product exceeded my expectations.,5,Positive
+1512,Beauty,The product exceeded my expectations.,5,Positive
+1513,Beauty,Poor quality and not worth the money.,2,Negative
+1514,Beauty,Amazing product and worth the money.,5,Positive
+1515,Home,It works as expected.,3,Neutral
+1516,Electronics,It works as expected.,3,Neutral
+1517,Fashion,Very satisfied with this purchase.,5,Positive
+1518,Home,Very disappointed with the product.,1,Negative
+1519,Books,Very satisfied with this purchase.,4,Positive
+1520,Beauty,Fast delivery and excellent packaging.,4,Positive
+1521,Home,It works as expected.,3,Neutral
+1522,Books,Fast delivery and excellent packaging.,5,Positive
+1523,Home,Highly recommended for everyone.,4,Positive
+1524,Beauty,Delivery was on time.,3,Neutral
+1525,Home,Poor quality and not worth the money.,1,Negative
+1526,Electronics,The product exceeded my expectations.,5,Positive
+1527,Fashion,Excellent product and great quality.,5,Positive
+1528,Electronics,The product is average.,3,Neutral
+1529,Fashion,Amazing product and worth the money.,4,Positive
+1530,Books,Not satisfied with this purchase.,1,Negative
+1531,Electronics,The item arrived damaged.,1,Negative
+1532,Books,The item arrived damaged.,2,Negative
+1533,Beauty,The quality is acceptable.,3,Neutral
+1534,Electronics,Fast delivery and excellent packaging.,4,Positive
+1535,Beauty,The item arrived damaged.,2,Negative
+1536,Beauty,Amazing product and worth the money.,4,Positive
+1537,Books,Highly recommended for everyone.,4,Positive
+1538,Books,The product stopped working quickly.,2,Negative
+1539,Beauty,The item arrived damaged.,2,Negative
+1540,Home,Highly recommended for everyone.,5,Positive
+1541,Books,Bad experience and slow delivery.,2,Negative
+1542,Home,Average performance overall.,3,Neutral
+1543,Electronics,Poor quality and not worth the money.,1,Negative
+1544,Home,The product exceeded my expectations.,4,Positive
+1545,Electronics,Bad experience and slow delivery.,2,Negative
+1546,Electronics,Highly recommended for everyone.,4,Positive
+1547,Fashion,Not satisfied with this purchase.,2,Negative
+1548,Beauty,The item arrived damaged.,2,Negative
+1549,Fashion,Excellent product and great quality.,4,Positive
+1550,Home,The product exceeded my expectations.,4,Positive
+1551,Books,Very satisfied with this purchase.,5,Positive
+1552,Books,Not satisfied with this purchase.,1,Negative
+1553,Books,Fast delivery and excellent packaging.,5,Positive
+1554,Beauty,Bad experience and slow delivery.,1,Negative
+1555,Beauty,The product exceeded my expectations.,5,Positive
+1556,Fashion,Amazing product and worth the money.,5,Positive
+1557,Electronics,Amazing product and worth the money.,5,Positive
+1558,Beauty,Fast delivery and excellent packaging.,4,Positive
+1559,Fashion,Poor quality and not worth the money.,1,Negative
+1560,Fashion,The item arrived damaged.,1,Negative
+1561,Fashion,Fast delivery and excellent packaging.,4,Positive
+1562,Beauty,Very satisfied with this purchase.,4,Positive
+1563,Electronics,Excellent product and great quality.,5,Positive
+1564,Beauty,Very disappointed with the product.,2,Negative
+1565,Home,Fast delivery and excellent packaging.,4,Positive
+1566,Fashion,Fast delivery and excellent packaging.,5,Positive
+1567,Home,Excellent product and great quality.,4,Positive
+1568,Beauty,Bad experience and slow delivery.,2,Negative
+1569,Beauty,Very satisfied with this purchase.,4,Positive
+1570,Books,Delivery was on time.,3,Neutral
+1571,Beauty,The product is average.,3,Neutral
+1572,Electronics,Not satisfied with this purchase.,2,Negative
+1573,Fashion,Very satisfied with this purchase.,4,Positive
+1574,Beauty,Very satisfied with this purchase.,5,Positive
+1575,Fashion,Fast delivery and excellent packaging.,4,Positive
+1576,Electronics,Very satisfied with this purchase.,4,Positive
+1577,Beauty,Average performance overall.,3,Neutral
+1578,Beauty,Highly recommended for everyone.,5,Positive
+1579,Beauty,Amazing product and worth the money.,5,Positive
+1580,Beauty,Excellent product and great quality.,5,Positive
+1581,Books,Average performance overall.,3,Neutral
+1582,Electronics,Excellent product and great quality.,5,Positive
+1583,Books,Excellent product and great quality.,4,Positive
+1584,Beauty,The product exceeded my expectations.,5,Positive
+1585,Beauty,Very satisfied with this purchase.,4,Positive
+1586,Electronics,Fast delivery and excellent packaging.,4,Positive
+1587,Books,The experience was neither good nor bad.,3,Neutral
+1588,Books,Very satisfied with this purchase.,5,Positive
+1589,Beauty,Amazing product and worth the money.,4,Positive
+1590,Home,Very satisfied with this purchase.,5,Positive
+1591,Fashion,Not satisfied with this purchase.,2,Negative
+1592,Books,Excellent product and great quality.,4,Positive
+1593,Home,Fast delivery and excellent packaging.,5,Positive
+1594,Beauty,Very satisfied with this purchase.,4,Positive
+1595,Fashion,The product exceeded my expectations.,4,Positive
+1596,Beauty,Excellent product and great quality.,5,Positive
+1597,Home,Highly recommended for everyone.,5,Positive
+1598,Books,The product stopped working quickly.,1,Negative
+1599,Beauty,Very satisfied with this purchase.,4,Positive
+1600,Beauty,Fast delivery and excellent packaging.,5,Positive
+1601,Beauty,Poor quality and not worth the money.,1,Negative
+1602,Beauty,The product is average.,3,Neutral
+1603,Books,Very satisfied with this purchase.,4,Positive
+1604,Beauty,Fast delivery and excellent packaging.,4,Positive
+1605,Fashion,Highly recommended for everyone.,5,Positive
+1606,Electronics,The product exceeded my expectations.,4,Positive
+1607,Home,Amazing product and worth the money.,4,Positive
+1608,Books,Bad experience and slow delivery.,2,Negative
+1609,Home,Bad experience and slow delivery.,1,Negative
+1610,Beauty,The item arrived damaged.,2,Negative
+1611,Books,Not satisfied with this purchase.,2,Negative
+1612,Beauty,The item arrived damaged.,1,Negative
+1613,Home,Highly recommended for everyone.,5,Positive
+1614,Fashion,The product is average.,3,Neutral
+1615,Electronics,The product is average.,3,Neutral
+1616,Fashion,The item arrived damaged.,1,Negative
+1617,Books,It works as expected.,3,Neutral
+1618,Books,Bad experience and slow delivery.,2,Negative
+1619,Home,Fast delivery and excellent packaging.,4,Positive
+1620,Fashion,Amazing product and worth the money.,5,Positive
+1621,Fashion,It works as expected.,3,Neutral
+1622,Home,The experience was neither good nor bad.,3,Neutral
+1623,Home,Excellent product and great quality.,4,Positive
+1624,Home,Bad experience and slow delivery.,2,Negative
+1625,Books,The product exceeded my expectations.,5,Positive
+1626,Beauty,The experience was neither good nor bad.,3,Neutral
+1627,Home,Average performance overall.,3,Neutral
+1628,Books,Fast delivery and excellent packaging.,5,Positive
+1629,Beauty,Amazing product and worth the money.,5,Positive
+1630,Beauty,Fast delivery and excellent packaging.,4,Positive
+1631,Electronics,Highly recommended for everyone.,5,Positive
+1632,Books,Average performance overall.,3,Neutral
+1633,Electronics,Very disappointed with the product.,2,Negative
+1634,Books,The product exceeded my expectations.,5,Positive
+1635,Home,Highly recommended for everyone.,4,Positive
+1636,Beauty,The product exceeded my expectations.,4,Positive
+1637,Fashion,The item arrived damaged.,1,Negative
+1638,Books,Excellent product and great quality.,5,Positive
+1639,Books,Fast delivery and excellent packaging.,5,Positive
+1640,Home,Very satisfied with this purchase.,5,Positive
+1641,Beauty,Highly recommended for everyone.,5,Positive
+1642,Beauty,The product exceeded my expectations.,5,Positive
+1643,Beauty,Excellent product and great quality.,5,Positive
+1644,Home,Fast delivery and excellent packaging.,4,Positive
+1645,Home,Very satisfied with this purchase.,5,Positive
+1646,Electronics,The item arrived damaged.,2,Negative
+1647,Beauty,The product stopped working quickly.,1,Negative
+1648,Fashion,Not satisfied with this purchase.,2,Negative
+1649,Home,Delivery was on time.,3,Neutral
+1650,Fashion,Highly recommended for everyone.,4,Positive
+1651,Beauty,It works as expected.,3,Neutral
+1652,Books,It works as expected.,3,Neutral
+1653,Home,Bad experience and slow delivery.,2,Negative
+1654,Home,Not satisfied with this purchase.,1,Negative
+1655,Fashion,Very satisfied with this purchase.,4,Positive
+1656,Home,Very disappointed with the product.,1,Negative
+1657,Books,Fast delivery and excellent packaging.,5,Positive
+1658,Books,The product stopped working quickly.,1,Negative
+1659,Fashion,Bad experience and slow delivery.,2,Negative
+1660,Fashion,Fast delivery and excellent packaging.,4,Positive
+1661,Books,The quality is acceptable.,3,Neutral
+1662,Electronics,The product stopped working quickly.,1,Negative
+1663,Fashion,The experience was neither good nor bad.,3,Neutral
+1664,Beauty,The quality is acceptable.,3,Neutral
+1665,Fashion,Delivery was on time.,3,Neutral
+1666,Beauty,Excellent product and great quality.,5,Positive
+1667,Beauty,The product exceeded my expectations.,4,Positive
+1668,Home,The product stopped working quickly.,2,Negative
+1669,Electronics,Excellent product and great quality.,4,Positive
+1670,Books,Excellent product and great quality.,4,Positive
+1671,Fashion,The product exceeded my expectations.,5,Positive
+1672,Electronics,Excellent product and great quality.,4,Positive
+1673,Home,The experience was neither good nor bad.,3,Neutral
+1674,Electronics,The experience was neither good nor bad.,3,Neutral
+1675,Beauty,Very disappointed with the product.,1,Negative
+1676,Electronics,The product exceeded my expectations.,4,Positive
+1677,Books,The item arrived damaged.,2,Negative
+1678,Fashion,Very disappointed with the product.,2,Negative
+1679,Fashion,Not satisfied with this purchase.,2,Negative
+1680,Electronics,Excellent product and great quality.,5,Positive
+1681,Fashion,Very satisfied with this purchase.,4,Positive
+1682,Home,Delivery was on time.,3,Neutral
+1683,Beauty,Fast delivery and excellent packaging.,4,Positive
+1684,Electronics,The product exceeded my expectations.,5,Positive
+1685,Beauty,Fast delivery and excellent packaging.,4,Positive
+1686,Electronics,Bad experience and slow delivery.,2,Negative
+1687,Books,Excellent product and great quality.,5,Positive
+1688,Electronics,Fast delivery and excellent packaging.,4,Positive
+1689,Books,The experience was neither good nor bad.,3,Neutral
+1690,Books,The product exceeded my expectations.,5,Positive
+1691,Books,Highly recommended for everyone.,5,Positive
+1692,Beauty,The product exceeded my expectations.,4,Positive
+1693,Electronics,Fast delivery and excellent packaging.,5,Positive
+1694,Fashion,Very satisfied with this purchase.,5,Positive
+1695,Fashion,The product exceeded my expectations.,4,Positive
+1696,Books,Very satisfied with this purchase.,4,Positive
+1697,Home,The item arrived damaged.,1,Negative
+1698,Fashion,Fast delivery and excellent packaging.,4,Positive
+1699,Books,Very disappointed with the product.,2,Negative
+1700,Home,The product exceeded my expectations.,5,Positive
+1701,Beauty,Amazing product and worth the money.,4,Positive
+1702,Beauty,Fast delivery and excellent packaging.,4,Positive
+1703,Electronics,Bad experience and slow delivery.,2,Negative
+1704,Electronics,Excellent product and great quality.,5,Positive
+1705,Beauty,Amazing product and worth the money.,5,Positive
+1706,Electronics,Highly recommended for everyone.,4,Positive
+1707,Electronics,Amazing product and worth the money.,5,Positive
+1708,Home,Highly recommended for everyone.,4,Positive
+1709,Home,Poor quality and not worth the money.,1,Negative
+1710,Books,The item arrived damaged.,1,Negative
+1711,Electronics,The product stopped working quickly.,1,Negative
+1712,Electronics,Highly recommended for everyone.,4,Positive
+1713,Fashion,The quality is acceptable.,3,Neutral
+1714,Books,The experience was neither good nor bad.,3,Neutral
+1715,Fashion,The product exceeded my expectations.,4,Positive
+1716,Electronics,It works as expected.,3,Neutral
+1717,Electronics,Very satisfied with this purchase.,4,Positive
+1718,Fashion,Fast delivery and excellent packaging.,4,Positive
+1719,Beauty,Fast delivery and excellent packaging.,4,Positive
+1720,Home,Excellent product and great quality.,5,Positive
+1721,Electronics,Fast delivery and excellent packaging.,4,Positive
+1722,Books,Excellent product and great quality.,5,Positive
+1723,Home,Bad experience and slow delivery.,1,Negative
+1724,Books,Very satisfied with this purchase.,5,Positive
+1725,Beauty,Amazing product and worth the money.,4,Positive
+1726,Fashion,Fast delivery and excellent packaging.,4,Positive
+1727,Home,Excellent product and great quality.,4,Positive
+1728,Beauty,Highly recommended for everyone.,4,Positive
+1729,Books,Highly recommended for everyone.,4,Positive
+1730,Fashion,Not satisfied with this purchase.,1,Negative
+1731,Books,Excellent product and great quality.,4,Positive
+1732,Electronics,Amazing product and worth the money.,4,Positive
+1733,Books,The item arrived damaged.,1,Negative
+1734,Electronics,Highly recommended for everyone.,5,Positive
+1735,Home,Excellent product and great quality.,4,Positive
+1736,Electronics,Bad experience and slow delivery.,1,Negative
+1737,Books,The experience was neither good nor bad.,3,Neutral
+1738,Home,Very satisfied with this purchase.,5,Positive
+1739,Electronics,The item arrived damaged.,1,Negative
+1740,Books,Excellent product and great quality.,4,Positive
+1741,Home,The quality is acceptable.,3,Neutral
+1742,Electronics,Highly recommended for everyone.,5,Positive
+1743,Home,It works as expected.,3,Neutral
+1744,Home,The quality is acceptable.,3,Neutral
+1745,Home,Amazing product and worth the money.,5,Positive
+1746,Fashion,The item arrived damaged.,1,Negative
+1747,Fashion,The product exceeded my expectations.,4,Positive
+1748,Books,Fast delivery and excellent packaging.,5,Positive
+1749,Fashion,Very satisfied with this purchase.,4,Positive
+1750,Beauty,Not satisfied with this purchase.,1,Negative
+1751,Electronics,It works as expected.,3,Neutral
+1752,Home,Highly recommended for everyone.,5,Positive
+1753,Electronics,Fast delivery and excellent packaging.,5,Positive
+1754,Home,Not satisfied with this purchase.,1,Negative
+1755,Beauty,Highly recommended for everyone.,4,Positive
+1756,Electronics,Average performance overall.,3,Neutral
+1757,Books,Excellent product and great quality.,4,Positive
+1758,Books,The product stopped working quickly.,1,Negative
+1759,Books,Fast delivery and excellent packaging.,4,Positive
+1760,Books,Excellent product and great quality.,4,Positive
+1761,Fashion,It works as expected.,3,Neutral
+1762,Electronics,The product exceeded my expectations.,4,Positive
+1763,Books,Very satisfied with this purchase.,4,Positive
+1764,Beauty,The experience was neither good nor bad.,3,Neutral
+1765,Home,Fast delivery and excellent packaging.,5,Positive
+1766,Home,The quality is acceptable.,3,Neutral
+1767,Electronics,The item arrived damaged.,2,Negative
+1768,Books,The product is average.,3,Neutral
+1769,Beauty,Delivery was on time.,3,Neutral
+1770,Beauty,Fast delivery and excellent packaging.,5,Positive
+1771,Beauty,Amazing product and worth the money.,4,Positive
+1772,Electronics,The experience was neither good nor bad.,3,Neutral
+1773,Electronics,The product exceeded my expectations.,5,Positive
+1774,Beauty,Very satisfied with this purchase.,5,Positive
+1775,Beauty,Very satisfied with this purchase.,4,Positive
+1776,Home,The product stopped working quickly.,1,Negative
+1777,Beauty,It works as expected.,3,Neutral
+1778,Home,Fast delivery and excellent packaging.,4,Positive
+1779,Fashion,Very satisfied with this purchase.,5,Positive
+1780,Books,Very satisfied with this purchase.,5,Positive
+1781,Books,Highly recommended for everyone.,4,Positive
+1782,Books,Not satisfied with this purchase.,2,Negative
+1783,Home,Not satisfied with this purchase.,1,Negative
+1784,Electronics,The quality is acceptable.,3,Neutral
+1785,Electronics,Amazing product and worth the money.,5,Positive
+1786,Home,Very satisfied with this purchase.,4,Positive
+1787,Fashion,Amazing product and worth the money.,4,Positive
+1788,Books,The product exceeded my expectations.,4,Positive
+1789,Fashion,Fast delivery and excellent packaging.,4,Positive
+1790,Beauty,Excellent product and great quality.,4,Positive
+1791,Fashion,Bad experience and slow delivery.,2,Negative
+1792,Books,The product exceeded my expectations.,5,Positive
+1793,Home,Amazing product and worth the money.,5,Positive
+1794,Fashion,Poor quality and not worth the money.,2,Negative
+1795,Home,The product is average.,3,Neutral
+1796,Beauty,Fast delivery and excellent packaging.,4,Positive
+1797,Beauty,The experience was neither good nor bad.,3,Neutral
+1798,Home,Amazing product and worth the money.,4,Positive
+1799,Beauty,Excellent product and great quality.,5,Positive
+1800,Home,Very satisfied with this purchase.,5,Positive
+1801,Fashion,The product exceeded my expectations.,4,Positive
+1802,Fashion,It works as expected.,3,Neutral
+1803,Electronics,Amazing product and worth the money.,5,Positive
+1804,Books,The quality is acceptable.,3,Neutral
+1805,Home,Bad experience and slow delivery.,2,Negative
+1806,Fashion,The product exceeded my expectations.,5,Positive
+1807,Beauty,Very satisfied with this purchase.,4,Positive
+1808,Electronics,Bad experience and slow delivery.,2,Negative
+1809,Beauty,Very disappointed with the product.,1,Negative
+1810,Beauty,Excellent product and great quality.,5,Positive
+1811,Fashion,The quality is acceptable.,3,Neutral
+1812,Beauty,Excellent product and great quality.,4,Positive
+1813,Electronics,Very satisfied with this purchase.,4,Positive
+1814,Beauty,Fast delivery and excellent packaging.,4,Positive
+1815,Beauty,Fast delivery and excellent packaging.,5,Positive
+1816,Books,Very disappointed with the product.,2,Negative
+1817,Books,Fast delivery and excellent packaging.,5,Positive
+1818,Fashion,Very satisfied with this purchase.,5,Positive
+1819,Home,Fast delivery and excellent packaging.,4,Positive
+1820,Books,Bad experience and slow delivery.,2,Negative
+1821,Books,The product exceeded my expectations.,5,Positive
+1822,Home,Highly recommended for everyone.,4,Positive
+1823,Electronics,Fast delivery and excellent packaging.,5,Positive
+1824,Books,Average performance overall.,3,Neutral
+1825,Books,Fast delivery and excellent packaging.,5,Positive
+1826,Home,Fast delivery and excellent packaging.,4,Positive
+1827,Beauty,Fast delivery and excellent packaging.,5,Positive
+1828,Books,Very satisfied with this purchase.,5,Positive
+1829,Electronics,Fast delivery and excellent packaging.,4,Positive
+1830,Fashion,Poor quality and not worth the money.,2,Negative
+1831,Books,The experience was neither good nor bad.,3,Neutral
+1832,Books,The product exceeded my expectations.,5,Positive
+1833,Electronics,The product exceeded my expectations.,4,Positive
+1834,Electronics,Very satisfied with this purchase.,5,Positive
+1835,Beauty,Very satisfied with this purchase.,5,Positive
+1836,Electronics,Very satisfied with this purchase.,5,Positive
+1837,Fashion,The product exceeded my expectations.,4,Positive
+1838,Fashion,Excellent product and great quality.,4,Positive
+1839,Fashion,The product exceeded my expectations.,4,Positive
+1840,Books,Very satisfied with this purchase.,5,Positive
+1841,Fashion,The item arrived damaged.,1,Negative
+1842,Beauty,The product exceeded my expectations.,4,Positive
+1843,Electronics,The product exceeded my expectations.,4,Positive
+1844,Fashion,Amazing product and worth the money.,5,Positive
+1845,Fashion,The experience was neither good nor bad.,3,Neutral
+1846,Electronics,The product exceeded my expectations.,5,Positive
+1847,Electronics,Very satisfied with this purchase.,4,Positive
+1848,Books,Very satisfied with this purchase.,5,Positive
+1849,Home,Amazing product and worth the money.,4,Positive
+1850,Beauty,Amazing product and worth the money.,4,Positive
+1851,Books,The product stopped working quickly.,1,Negative
+1852,Home,Excellent product and great quality.,4,Positive
+1853,Fashion,The quality is acceptable.,3,Neutral
+1854,Books,Very satisfied with this purchase.,4,Positive
+1855,Beauty,Average performance overall.,3,Neutral
+1856,Fashion,The item arrived damaged.,1,Negative
+1857,Home,Excellent product and great quality.,4,Positive
+1858,Home,It works as expected.,3,Neutral
+1859,Electronics,Amazing product and worth the money.,4,Positive
+1860,Electronics,Excellent product and great quality.,4,Positive
+1861,Home,Bad experience and slow delivery.,1,Negative
+1862,Books,The product exceeded my expectations.,4,Positive
+1863,Electronics,Very satisfied with this purchase.,4,Positive
+1864,Electronics,Excellent product and great quality.,4,Positive
+1865,Beauty,It works as expected.,3,Neutral
+1866,Fashion,It works as expected.,3,Neutral
+1867,Beauty,Amazing product and worth the money.,5,Positive
+1868,Beauty,Amazing product and worth the money.,4,Positive
+1869,Beauty,Excellent product and great quality.,4,Positive
+1870,Home,Amazing product and worth the money.,5,Positive
+1871,Electronics,Average performance overall.,3,Neutral
+1872,Home,The product is average.,3,Neutral
+1873,Books,The experience was neither good nor bad.,3,Neutral
+1874,Books,Highly recommended for everyone.,4,Positive
+1875,Fashion,Very disappointed with the product.,1,Negative
+1876,Home,The quality is acceptable.,3,Neutral
+1877,Fashion,Fast delivery and excellent packaging.,4,Positive
+1878,Books,Excellent product and great quality.,4,Positive
+1879,Beauty,Not satisfied with this purchase.,2,Negative
+1880,Books,Very disappointed with the product.,2,Negative
+1881,Beauty,Very satisfied with this purchase.,5,Positive
+1882,Home,Not satisfied with this purchase.,2,Negative
+1883,Home,Very satisfied with this purchase.,5,Positive
+1884,Fashion,The quality is acceptable.,3,Neutral
+1885,Electronics,The product exceeded my expectations.,5,Positive
+1886,Electronics,Highly recommended for everyone.,4,Positive
+1887,Home,Fast delivery and excellent packaging.,4,Positive
+1888,Home,Amazing product and worth the money.,5,Positive
+1889,Home,Fast delivery and excellent packaging.,4,Positive
+1890,Books,The experience was neither good nor bad.,3,Neutral
+1891,Books,The product exceeded my expectations.,5,Positive
+1892,Books,The product exceeded my expectations.,5,Positive
+1893,Electronics,Amazing product and worth the money.,5,Positive
+1894,Home,Fast delivery and excellent packaging.,5,Positive
+1895,Electronics,Poor quality and not worth the money.,1,Negative
+1896,Electronics,Very disappointed with the product.,2,Negative
+1897,Beauty,The quality is acceptable.,3,Neutral
+1898,Beauty,Poor quality and not worth the money.,2,Negative
+1899,Books,Very disappointed with the product.,2,Negative
+1900,Books,The product exceeded my expectations.,5,Positive
+1901,Beauty,Highly recommended for everyone.,5,Positive
+1902,Electronics,Excellent product and great quality.,5,Positive
+1903,Books,Very satisfied with this purchase.,5,Positive
+1904,Beauty,Excellent product and great quality.,4,Positive
+1905,Books,The item arrived damaged.,1,Negative
+1906,Books,Very satisfied with this purchase.,5,Positive
+1907,Beauty,The product stopped working quickly.,2,Negative
+1908,Books,The product stopped working quickly.,2,Negative
+1909,Books,Amazing product and worth the money.,4,Positive
+1910,Beauty,Highly recommended for everyone.,5,Positive
+1911,Electronics,The item arrived damaged.,2,Negative
+1912,Fashion,Excellent product and great quality.,4,Positive
+1913,Fashion,The product exceeded my expectations.,4,Positive
+1914,Fashion,Fast delivery and excellent packaging.,5,Positive
+1915,Home,Excellent product and great quality.,4,Positive
+1916,Electronics,Very satisfied with this purchase.,4,Positive
+1917,Fashion,The product is average.,3,Neutral
+1918,Electronics,Highly recommended for everyone.,5,Positive
+1919,Fashion,Fast delivery and excellent packaging.,5,Positive
+1920,Fashion,Fast delivery and excellent packaging.,4,Positive
+1921,Beauty,Fast delivery and excellent packaging.,5,Positive
+1922,Home,Fast delivery and excellent packaging.,4,Positive
+1923,Home,Highly recommended for everyone.,5,Positive
+1924,Home,The item arrived damaged.,2,Negative
+1925,Fashion,Excellent product and great quality.,4,Positive
+1926,Home,Very satisfied with this purchase.,5,Positive
+1927,Beauty,Very disappointed with the product.,1,Negative
+1928,Books,Excellent product and great quality.,5,Positive
+1929,Beauty,Excellent product and great quality.,5,Positive
+1930,Beauty,The quality is acceptable.,3,Neutral
+1931,Fashion,Fast delivery and excellent packaging.,5,Positive
+1932,Electronics,Bad experience and slow delivery.,1,Negative
+1933,Beauty,The product stopped working quickly.,1,Negative
+1934,Fashion,The product exceeded my expectations.,5,Positive
+1935,Beauty,Average performance overall.,3,Neutral
+1936,Beauty,The quality is acceptable.,3,Neutral
+1937,Fashion,Very disappointed with the product.,1,Negative
+1938,Fashion,Amazing product and worth the money.,4,Positive
+1939,Fashion,The quality is acceptable.,3,Neutral
+1940,Home,The product is average.,3,Neutral
+1941,Fashion,Delivery was on time.,3,Neutral
+1942,Books,The item arrived damaged.,1,Negative
+1943,Electronics,Amazing product and worth the money.,4,Positive
+1944,Books,Very satisfied with this purchase.,5,Positive
+1945,Electronics,Fast delivery and excellent packaging.,5,Positive
+1946,Electronics,Very satisfied with this purchase.,4,Positive
+1947,Electronics,Very satisfied with this purchase.,4,Positive
+1948,Electronics,The quality is acceptable.,3,Neutral
+1949,Beauty,Excellent product and great quality.,5,Positive
+1950,Fashion,Excellent product and great quality.,5,Positive
+1951,Home,Very disappointed with the product.,2,Negative
+1952,Beauty,Highly recommended for everyone.,4,Positive
+1953,Books,The product stopped working quickly.,2,Negative
+1954,Beauty,It works as expected.,3,Neutral
+1955,Beauty,Very satisfied with this purchase.,5,Positive
+1956,Books,Not satisfied with this purchase.,1,Negative
+1957,Home,Excellent product and great quality.,4,Positive
+1958,Books,The quality is acceptable.,3,Neutral
+1959,Books,Highly recommended for everyone.,4,Positive
+1960,Fashion,The product exceeded my expectations.,4,Positive
+1961,Fashion,Fast delivery and excellent packaging.,4,Positive
+1962,Fashion,It works as expected.,3,Neutral
+1963,Electronics,Very satisfied with this purchase.,5,Positive
+1964,Electronics,The product stopped working quickly.,1,Negative
+1965,Fashion,Not satisfied with this purchase.,1,Negative
+1966,Electronics,Very satisfied with this purchase.,5,Positive
+1967,Books,Amazing product and worth the money.,5,Positive
+1968,Fashion,Fast delivery and excellent packaging.,5,Positive
+1969,Home,Amazing product and worth the money.,5,Positive
+1970,Books,It works as expected.,3,Neutral
+1971,Electronics,Not satisfied with this purchase.,2,Negative
+1972,Books,Excellent product and great quality.,5,Positive
+1973,Electronics,The item arrived damaged.,2,Negative
+1974,Fashion,The experience was neither good nor bad.,3,Neutral
+1975,Beauty,Very satisfied with this purchase.,5,Positive
+1976,Books,The product stopped working quickly.,2,Negative
+1977,Books,Very disappointed with the product.,1,Negative
+1978,Books,Poor quality and not worth the money.,1,Negative
+1979,Beauty,Very satisfied with this purchase.,5,Positive
+1980,Beauty,Amazing product and worth the money.,4,Positive
+1981,Beauty,Not satisfied with this purchase.,1,Negative
+1982,Books,The item arrived damaged.,2,Negative
+1983,Fashion,It works as expected.,3,Neutral
+1984,Fashion,Highly recommended for everyone.,5,Positive
+1985,Home,Fast delivery and excellent packaging.,5,Positive
+1986,Electronics,Fast delivery and excellent packaging.,4,Positive
+1987,Beauty,Average performance overall.,3,Neutral
+1988,Home,Very disappointed with the product.,2,Negative
+1989,Books,Amazing product and worth the money.,4,Positive
+1990,Home,The product stopped working quickly.,2,Negative
+1991,Beauty,Very satisfied with this purchase.,4,Positive
+1992,Books,The product exceeded my expectations.,5,Positive
+1993,Electronics,The quality is acceptable.,3,Neutral
+1994,Fashion,Amazing product and worth the money.,4,Positive
+1995,Home,Fast delivery and excellent packaging.,5,Positive
+1996,Fashion,Amazing product and worth the money.,4,Positive
+1997,Home,Poor quality and not worth the money.,2,Negative
+1998,Fashion,Amazing product and worth the money.,4,Positive
+1999,Beauty,It works as expected.,3,Neutral
+2000,Beauty,Amazing product and worth the money.,5,Positive
